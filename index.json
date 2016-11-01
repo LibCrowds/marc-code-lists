@@ -4676,5 +4676,2347 @@
          "id":"wst",
          "text":"Writer of supplementary textual content"
       }
+   ],
+   "geographicAreas":[
+      {
+         "id":"a",
+         "text":"Asia"
+      },
+      {
+         "id":"a-af",
+         "text":"Afghanistan"
+      },
+      {
+         "id":"a-ai",
+         "text":"Armenia (Republic)"
+      },
+      {
+         "id":"a-aj",
+         "text":"Azerbaijan"
+      },
+      {
+         "id":"a-ba",
+         "text":"Bahrain"
+      },
+      {
+         "id":"a-bg",
+         "text":"Bangladesh"
+      },
+      {
+         "id":"a-bn",
+         "text":"Borneo"
+      },
+      {
+         "id":"a-br",
+         "text":"Burma"
+      },
+      {
+         "id":"a-bt",
+         "text":"Bhutan"
+      },
+      {
+         "id":"a-bx",
+         "text":"Brunei"
+      },
+      {
+         "id":"a-cb",
+         "text":"Cambodia"
+      },
+      {
+         "id":"a-cc",
+         "text":"China"
+      },
+      {
+         "id":"a-cc-an",
+         "text":"Anhui Sheng (China)"
+      },
+      {
+         "id":"a-cc-ch",
+         "text":"Zhejiang Sheng (China)"
+      },
+      {
+         "id":"a-cc-cq",
+         "text":"Chongqing (China)"
+      },
+      {
+         "id":"a-cc-fu",
+         "text":"Fujian Sheng (China)"
+      },
+      {
+         "id":"a-cc-ha",
+         "text":"Hainan Sheng (China)"
+      },
+      {
+         "id":"a-cc-he",
+         "text":"Heilongjiang Sheng (China)"
+      },
+      {
+         "id":"a-cc-hh",
+         "text":"Hubei Sheng (China)"
+      },
+      {
+         "id":"a-cc-hk",
+         "text":"Hong Kong (China)"
+      },
+      {
+         "id":"a-cc-ho",
+         "text":"Henan Sheng (China)"
+      },
+      {
+         "id":"a-cc-hp",
+         "text":"Hebei Sheng (China)"
+      },
+      {
+         "id":"a-cc-hu",
+         "text":"Hunan Sheng (China)"
+      },
+      {
+         "id":"a-cc-im",
+         "text":"Inner Mongolia (China)"
+      },
+      {
+         "id":"a-cc-ka",
+         "text":"Gansu Sheng (China)"
+      },
+      {
+         "id":"a-cc-kc",
+         "text":"Guangxi Zhuangzu Zizhiqu (China)"
+      },
+      {
+         "id":"a-cc-ki",
+         "text":"Jiangxi Sheng (China)"
+      },
+      {
+         "id":"a-cc-kn",
+         "text":"Guangdong Sheng (China)"
+      },
+      {
+         "id":"a-cc-kr",
+         "text":"Jilin Sheng (China)"
+      },
+      {
+         "id":"a-cc-ku",
+         "text":"Jiangsu Sheng (China)"
+      },
+      {
+         "id":"a-cc-kw",
+         "text":"Guizhou Sheng (China)"
+      },
+      {
+         "id":"a-cc-lp",
+         "text":"Liaoning Sheng (China)"
+      },
+      {
+         "id":"a-cc-mh",
+         "text":"Macau (China : Special Administrative Region)"
+      },
+      {
+         "id":"a-cc-nn",
+         "text":"Ningxia Huizu Zizhiqu (China)"
+      },
+      {
+         "id":"a-cc-pe",
+         "text":"Beijing (China)"
+      },
+      {
+         "id":"a-cc-sh",
+         "text":"Shanxi Sheng (China)"
+      },
+      {
+         "id":"a-cc-sm",
+         "text":"Shanghai (China)"
+      },
+      {
+         "id":"a-cc-sp",
+         "text":"Shandong Sheng (China)"
+      },
+      {
+         "id":"a-cc-ss",
+         "text":"Shaanxi Sheng (China)"
+      },
+      {
+         "id":"a-cc-su",
+         "text":"Xinjiang Uygur Zizhiqu (China)"
+      },
+      {
+         "id":"a-cc-sz",
+         "text":"Sichuan Sheng (China)"
+      },
+      {
+         "id":"a-cc-ti",
+         "text":"Tibet (China)"
+      },
+      {
+         "id":"a-cc-tn",
+         "text":"Tianjin (China)"
+      },
+      {
+         "id":"a-cc-ts",
+         "text":"Qinghai Sheng (China)"
+      },
+      {
+         "id":"a-cc-yu",
+         "text":"Yunnan Sheng (China)"
+      },
+      {
+         "id":"a-ccg",
+         "text":"Yangtze River (China)"
+      },
+      {
+         "id":"a-cck",
+         "text":"Kunlun Mountains (China and India)"
+      },
+      {
+         "id":"a-ccp",
+         "text":"Bo Hai (China)"
+      },
+      {
+         "id":"a-ccs",
+         "text":"Xi River (China)"
+      },
+      {
+         "id":"a-ccy",
+         "text":"Yellow River (China)"
+      },
+      {
+         "id":"a-ce",
+         "text":"Sri Lanka"
+      },
+      {
+         "id":"a-ch",
+         "text":"Taiwan"
+      },
+      {
+         "id":"a-cy",
+         "text":"Cyprus"
+      },
+      {
+         "id":"a-em",
+         "text":"Timor-Leste"
+      },
+      {
+         "id":"a-gs",
+         "text":"Georgia (Republic)"
+      },
+      {
+         "id":"-a-hk",
+         "text":"Hong Kong"
+      },
+      {
+         "id":"a-ii",
+         "text":"India"
+      },
+      {
+         "id":"a-io",
+         "text":"Indonesia"
+      },
+      {
+         "id":"a-iq",
+         "text":"Iraq"
+      },
+      {
+         "id":"a-ir",
+         "text":"Iran"
+      },
+      {
+         "id":"a-is",
+         "text":"Israel"
+      },
+      {
+         "id":"a-ja",
+         "text":"Japan"
+      },
+      {
+         "id":"a-jo",
+         "text":"Jordan"
+      },
+      {
+         "id":"a-kg",
+         "text":"Kyrgyzstan"
+      },
+      {
+         "id":"a-kn",
+         "text":"Korea (North)"
+      },
+      {
+         "id":"a-ko",
+         "text":"Korea (South)"
+      },
+      {
+         "id":"a-kr",
+         "text":"Korea"
+      },
+      {
+         "id":"a-ku",
+         "text":"Kuwait"
+      },
+      {
+         "id":"a-kz",
+         "text":"Kazakhstan"
+      },
+      {
+         "id":"a-le",
+         "text":"Lebanon"
+      },
+      {
+         "id":"a-ls",
+         "text":"Laos"
+      },
+      {
+         "id":"-a-mh",
+         "text":"Macao"
+      },
+      {
+         "id":"a-mk",
+         "text":"Oman"
+      },
+      {
+         "id":"a-mp",
+         "text":"Mongolia"
+      },
+      {
+         "id":"a-my",
+         "text":"Malaysia"
+      },
+      {
+         "id":"a-np",
+         "text":"Nepal"
+      },
+      {
+         "id":"a-nw",
+         "text":"New Guinea"
+      },
+      {
+         "id":"-a-ok",
+         "text":"Okinawa"
+      },
+      {
+         "id":"a-ph",
+         "text":"Philippines"
+      },
+      {
+         "id":"a-pk",
+         "text":"Pakistan"
+      },
+      {
+         "id":"a-pp",
+         "text":"Papua New Guinea"
+      },
+      {
+         "id":"-a-pt",
+         "text":"Portuguese Timor"
+      },
+      {
+         "id":"a-qa",
+         "text":"Qatar"
+      },
+      {
+         "id":"a-si",
+         "text":"Singapore"
+      },
+      {
+         "id":"-a-sk",
+         "text":"Sikkim"
+      },
+      {
+         "id":"a-su",
+         "text":"Saudi Arabia"
+      },
+      {
+         "id":"a-sy",
+         "text":"Syria"
+      },
+      {
+         "id":"a-ta",
+         "text":"Tajikistan"
+      },
+      {
+         "id":"a-th",
+         "text":"Thailand"
+      },
+      {
+         "id":"a-tk",
+         "text":"Turkmenistan"
+      },
+      {
+         "id":"a-ts",
+         "text":"United Arab Emirates"
+      },
+      {
+         "id":"a-tu",
+         "text":"Turkey"
+      },
+      {
+         "id":"a-uz",
+         "text":"Uzbekistan"
+      },
+      {
+         "id":"-a-vn",
+         "text":"Viet Nam, North"
+      },
+      {
+         "id":"-a-vs",
+         "text":"Viet Nam, South"
+      },
+      {
+         "id":"a-vt",
+         "text":"Vietnam"
+      },
+      {
+         "id":"a-ye",
+         "text":"Yemen (Republic)"
+      },
+      {
+         "id":"-a-ys",
+         "text":"Yemen (People's Democratic Republic)"
+      },
+      {
+         "id":"aa",
+         "text":"Amur River (China and Russia)"
+      },
+      {
+         "id":"ab",
+         "text":"Bengal, Bay of"
+      },
+      {
+         "id":"ac",
+         "text":"Asia, Central"
+      },
+      {
+         "id":"ae",
+         "text":"East Asia"
+      },
+      {
+         "id":"af",
+         "text":"Thailand, Gulf of"
+      },
+      {
+         "id":"ag",
+         "text":"Mekong River"
+      },
+      {
+         "id":"ah",
+         "text":"Himalaya Mountains"
+      },
+      {
+         "id":"ai",
+         "text":"Indochina"
+      },
+      {
+         "id":"ak",
+         "text":"Caspian Sea"
+      },
+      {
+         "id":"am",
+         "text":"Malaya"
+      },
+      {
+         "id":"an",
+         "text":"East China Sea"
+      },
+      {
+         "id":"ao",
+         "text":"South China Sea"
+      },
+      {
+         "id":"aopf",
+         "text":"Paracel Islands"
+      },
+      {
+         "id":"aoxp",
+         "text":"Spratly Islands"
+      },
+      {
+         "id":"ap",
+         "text":"Persian Gulf"
+      },
+      {
+         "id":"ar",
+         "text":"Arabian Peninsula"
+      },
+      {
+         "id":"as",
+         "text":"Southeast Asia"
+      },
+      {
+         "id":"at",
+         "text":"Tien Shan"
+      },
+      {
+         "id":"au",
+         "text":"Arabian Sea"
+      },
+      {
+         "id":"aw",
+         "text":"Middle East"
+      },
+      {
+         "id":"awba",
+         "text":"West Bank"
+      },
+      {
+         "id":"awgz",
+         "text":"Gaza Strip"
+      },
+      {
+         "id":"-awiu",
+         "text":"Israel-Syria Demilitarized Zones"
+      },
+      {
+         "id":"-awiw",
+         "text":"Israel-Jordan Demilitarized Zones"
+      },
+      {
+         "id":"-awiy",
+         "text":"Iraq-Saudi Arabia Neutral Zone"
+      },
+      {
+         "id":"ay",
+         "text":"Yellow Sea"
+      },
+      {
+         "id":"az",
+         "text":"South Asia"
+      },
+      {
+         "id":"b",
+         "text":"Commonwealth countries"
+      },
+      {
+         "id":"c",
+         "text":"Intercontinental areas (Western Hemisphere)"
+      },
+      {
+         "id":"cc",
+         "text":"Caribbean Area; Caribbean Sea"
+      },
+      {
+         "id":"cl",
+         "text":"Latin America"
+      },
+      {
+         "id":"-cm",
+         "text":"Middle America"
+      },
+      {
+         "id":"-cr",
+         "text":"Circumcaribbean"
+      },
+      {
+         "id":"d",
+         "text":"Developing countries"
+      },
+      {
+         "id":"dd",
+         "text":"Developed countries"
+      },
+      {
+         "id":"e",
+         "text":"Europe"
+      },
+      {
+         "id":"e-aa",
+         "text":"Albania"
+      },
+      {
+         "id":"e-an",
+         "text":"Andorra"
+      },
+      {
+         "id":"e-au",
+         "text":"Austria"
+      },
+      {
+         "id":"e-be",
+         "text":"Belgium"
+      },
+      {
+         "id":"e-bn",
+         "text":"Bosnia and Herzegovina"
+      },
+      {
+         "id":"e-bu",
+         "text":"Bulgaria"
+      },
+      {
+         "id":"e-bw",
+         "text":"Belarus"
+      },
+      {
+         "id":"e-ci",
+         "text":"Croatia"
+      },
+      {
+         "id":"e-cs",
+         "text":"Czechoslovakia"
+      },
+      {
+         "id":"e-dk",
+         "text":"Denmark"
+      },
+      {
+         "id":"e-er",
+         "text":"Estonia"
+      },
+      {
+         "id":"e-fi",
+         "text":"Finland"
+      },
+      {
+         "id":"e-fr",
+         "text":"France"
+      },
+      {
+         "id":"e-ge",
+         "text":"Germany (East)"
+      },
+      {
+         "id":"e-gi",
+         "text":"Gibraltar"
+      },
+      {
+         "id":"e-gr",
+         "text":"Greece"
+      },
+      {
+         "id":"e-gw",
+         "text":"Germany (West)"
+      },
+      {
+         "id":"e-gx",
+         "text":"Germany"
+      },
+      {
+         "id":"e-hu",
+         "text":"Hungary"
+      },
+      {
+         "id":"e-ic",
+         "text":"Iceland"
+      },
+      {
+         "id":"e-ie",
+         "text":"Ireland"
+      },
+      {
+         "id":"e-it",
+         "text":"Italy"
+      },
+      {
+         "id":"e-kv",
+         "text":"Kosovo"
+      },
+      {
+         "id":"e-lh",
+         "text":"Liechtenstein"
+      },
+      {
+         "id":"e-li",
+         "text":"Lithuania"
+      },
+      {
+         "id":"e-lu",
+         "text":"Luxembourg"
+      },
+      {
+         "id":"e-lv",
+         "text":"Latvia"
+      },
+      {
+         "id":"e-mc",
+         "text":"Monaco"
+      },
+      {
+         "id":"e-mm",
+         "text":"Malta"
+      },
+      {
+         "id":"e-mo",
+         "text":"Montenegro"
+      },
+      {
+         "id":"e-mv",
+         "text":"Moldova"
+      },
+      {
+         "id":"e-ne",
+         "text":"Netherlands"
+      },
+      {
+         "id":"e-no",
+         "text":"Norway"
+      },
+      {
+         "id":"e-pl",
+         "text":"Poland"
+      },
+      {
+         "id":"e-po",
+         "text":"Portugal"
+      },
+      {
+         "id":"e-rb",
+         "text":"Serbia"
+      },
+      {
+         "id":"e-rm",
+         "text":"Romania"
+      },
+      {
+         "id":"e-ru",
+         "text":"Russia (Federation)"
+      },
+      {
+         "id":"e-sm",
+         "text":"San Marino"
+      },
+      {
+         "id":"e-sp",
+         "text":"Spain"
+      },
+      {
+         "id":"e-sw",
+         "text":"Sweden"
+      },
+      {
+         "id":"e-sz",
+         "text":"Switzerland"
+      },
+      {
+         "id":"e-uk",
+         "text":"Great Britain"
+      },
+      {
+         "id":"e-uk-en",
+         "text":"England"
+      },
+      {
+         "id":"e-uk-ni",
+         "text":"Northern Ireland"
+      },
+      {
+         "id":"e-uk-st",
+         "text":"Scotland"
+      },
+      {
+         "id":"e-uk-ui",
+         "text":"Great Britain Miscellaneous Island Dependencies"
+      },
+      {
+         "id":"e-uk-wl",
+         "text":"Wales"
+      },
+      {
+         "id":"e-un",
+         "text":"Ukraine"
+      },
+      {
+         "id":"e-ur",
+         "text":"Russia. Russian Empire. Soviet Union. Former Soviet Republics"
+      },
+      {
+         "id":"-e-ur-ai",
+         "text":"Armenia (Republic)"
+      },
+      {
+         "id":"-e-ur-aj",
+         "text":"Azerbaijan"
+      },
+      {
+         "id":"-e-ur-bw",
+         "text":"Belarus"
+      },
+      {
+         "id":"-e-ur-er",
+         "text":"Estonia"
+      },
+      {
+         "id":"-e-ur-gs",
+         "text":"Georgia (Republic)"
+      },
+      {
+         "id":"-e-ur-kg",
+         "text":"Kyrgyzstan"
+      },
+      {
+         "id":"-e-ur-kz",
+         "text":"Kazakhstan"
+      },
+      {
+         "id":"-e-ur-li",
+         "text":"Lithuania"
+      },
+      {
+         "id":"-e-ur-lv",
+         "text":"Latvia"
+      },
+      {
+         "id":"-e-ur-mv",
+         "text":"Moldova"
+      },
+      {
+         "id":"-e-ur-ru",
+         "text":"Russia (Federation)"
+      },
+      {
+         "id":"-e-ur-ta",
+         "text":"Tajikistan"
+      },
+      {
+         "id":"-e-ur-tk",
+         "text":"Turkmenistan"
+      },
+      {
+         "id":"-e-ur-un",
+         "text":"Ukraine"
+      },
+      {
+         "id":"-e-ur-uz",
+         "text":"Uzbekistan"
+      },
+      {
+         "id":"e-urc",
+         "text":"Central Chernozem Region (Russia)"
+      },
+      {
+         "id":"e-ure",
+         "text":"Siberia, Eastern (Russia)"
+      },
+      {
+         "id":"e-urf",
+         "text":"Russian Far East (Russia)"
+      },
+      {
+         "id":"e-urk",
+         "text":"Caucasus"
+      },
+      {
+         "id":"-e-url",
+         "text":"Central Region, RSFSR"
+      },
+      {
+         "id":"e-urn",
+         "text":"Soviet Union, Northwestern"
+      },
+      {
+         "id":"-e-uro",
+         "text":"Soviet Central Asia"
+      },
+      {
+         "id":"e-urp",
+         "text":"Volga River (Russia)"
+      },
+      {
+         "id":"e-urr",
+         "text":"Caucasus, Northern (Russia)"
+      },
+      {
+         "id":"e-urs",
+         "text":"Siberia (Russia)"
+      },
+      {
+         "id":"e-uru",
+         "text":"Ural Mountains (Russia)"
+      },
+      {
+         "id":"-e-urv",
+         "text":"Volgo-Viatskii Region, RSFSR"
+      },
+      {
+         "id":"e-urw",
+         "text":"Siberia, Western (Russia)"
+      },
+      {
+         "id":"e-vc",
+         "text":"Vatican City"
+      },
+      {
+         "id":"e-xn",
+         "text":"Macedonia (Republic)"
+      },
+      {
+         "id":"e-xo",
+         "text":"Slovakia"
+      },
+      {
+         "id":"e-xr",
+         "text":"Czech Republic"
+      },
+      {
+         "id":"e-xv",
+         "text":"Slovenia"
+      },
+      {
+         "id":"e-yu",
+         "text":"Serbia and Montenegro; Yugoslavia"
+      },
+      {
+         "id":"ea",
+         "text":"Alps"
+      },
+      {
+         "id":"eb",
+         "text":"Baltic States"
+      },
+      {
+         "id":"ec",
+         "text":"Europe, Central"
+      },
+      {
+         "id":"ed",
+         "text":"Balkan Peninsula"
+      },
+      {
+         "id":"ee",
+         "text":"Europe, Eastern"
+      },
+      {
+         "id":"-ei",
+         "text":"Iberian Peninsula"
+      },
+      {
+         "id":"el",
+         "text":"Benelux countries"
+      },
+      {
+         "id":"en",
+         "text":"Europe, Northern"
+      },
+      {
+         "id":"eo",
+         "text":"Danube River"
+      },
+      {
+         "id":"ep",
+         "text":"Pyrenees"
+      },
+      {
+         "id":"er",
+         "text":"Rhine River"
+      },
+      {
+         "id":"es",
+         "text":"Europe, Southern"
+      },
+      {
+         "id":"-et",
+         "text":"Europe, East Central"
+      },
+      {
+         "id":"ev",
+         "text":"Scandinavia"
+      },
+      {
+         "id":"ew",
+         "text":"Europe, Western"
+      },
+      {
+         "id":"f",
+         "text":"Africa"
+      },
+      {
+         "id":"f-ae",
+         "text":"Algeria"
+      },
+      {
+         "id":"f-ao",
+         "text":"Angola"
+      },
+      {
+         "id":"f-bd",
+         "text":"Burundi"
+      },
+      {
+         "id":"f-bs",
+         "text":"Botswana"
+      },
+      {
+         "id":"-f-by",
+         "text":"Biafra"
+      },
+      {
+         "id":"f-cd",
+         "text":"Chad"
+      },
+      {
+         "id":"f-cf",
+         "text":"Congo (Brazzaville)"
+      },
+      {
+         "id":"f-cg",
+         "text":"Congo (Democratic Republic)"
+      },
+      {
+         "id":"f-cm",
+         "text":"Cameroon"
+      },
+      {
+         "id":"f-cx",
+         "text":"Central African Republic"
+      },
+      {
+         "id":"f-dm",
+         "text":"Benin"
+      },
+      {
+         "id":"f-ea",
+         "text":"Eritrea"
+      },
+      {
+         "id":"f-eg",
+         "text":"Equatorial Guinea"
+      },
+      {
+         "id":"f-et",
+         "text":"Ethiopia"
+      },
+      {
+         "id":"f-ft",
+         "text":"Djibouti"
+      },
+      {
+         "id":"f-gh",
+         "text":"Ghana"
+      },
+      {
+         "id":"f-gm",
+         "text":"Gambia"
+      },
+      {
+         "id":"f-go",
+         "text":"Gabon"
+      },
+      {
+         "id":"f-gv",
+         "text":"Guinea"
+      },
+      {
+         "id":"-f-if",
+         "text":"Ifni"
+      },
+      {
+         "id":"f-iv",
+         "text":"Côte d'Ivoire"
+      },
+      {
+         "id":"f-ke",
+         "text":"Kenya"
+      },
+      {
+         "id":"f-lb",
+         "text":"Liberia"
+      },
+      {
+         "id":"f-lo",
+         "text":"Lesotho"
+      },
+      {
+         "id":"f-ly",
+         "text":"Libya"
+      },
+      {
+         "id":"f-mg",
+         "text":"Madagascar"
+      },
+      {
+         "id":"f-ml",
+         "text":"Mali"
+      },
+      {
+         "id":"f-mr",
+         "text":"Morocco"
+      },
+      {
+         "id":"f-mu",
+         "text":"Mauritania"
+      },
+      {
+         "id":"f-mw",
+         "text":"Malawi"
+      },
+      {
+         "id":"f-mz",
+         "text":"Mozambique"
+      },
+      {
+         "id":"f-ng",
+         "text":"Niger"
+      },
+      {
+         "id":"f-nr",
+         "text":"Nigeria"
+      },
+      {
+         "id":"f-pg",
+         "text":"Guinea-Bissau"
+      },
+      {
+         "id":"f-rh",
+         "text":"Zimbabwe"
+      },
+      {
+         "id":"f-rw",
+         "text":"Rwanda"
+      },
+      {
+         "id":"f-sa",
+         "text":"South Africa"
+      },
+      {
+         "id":"f-sd",
+         "text":"South Sudan"
+      },
+      {
+         "id":"f-sf",
+         "text":"Sao Tome and Principe"
+      },
+      {
+         "id":"f-sg",
+         "text":"Senegal"
+      },
+      {
+         "id":"f-sh",
+         "text":"Spanish North Africa"
+      },
+      {
+         "id":"f-sj",
+         "text":"Sudan"
+      },
+      {
+         "id":"f-sl",
+         "text":"Sierra Leone"
+      },
+      {
+         "id":"f-so",
+         "text":"Somalia"
+      },
+      {
+         "id":"f-sq",
+         "text":"Swaziland"
+      },
+      {
+         "id":"f-ss",
+         "text":"Western Sahara"
+      },
+      {
+         "id":"f-sx",
+         "text":"Namibia"
+      },
+      {
+         "id":"f-tg",
+         "text":"Togo"
+      },
+      {
+         "id":"f-ti",
+         "text":"Tunisia"
+      },
+      {
+         "id":"f-tz",
+         "text":"Tanzania"
+      },
+      {
+         "id":"f-ua",
+         "text":"Egypt"
+      },
+      {
+         "id":"f-ug",
+         "text":"Uganda"
+      },
+      {
+         "id":"f-uv",
+         "text":"Burkina Faso"
+      },
+      {
+         "id":"f-za",
+         "text":"Zambia"
+      },
+      {
+         "id":"fa",
+         "text":"Atlas Mountains"
+      },
+      {
+         "id":"fb",
+         "text":"Africa, Sub-Saharan"
+      },
+      {
+         "id":"fc",
+         "text":"Africa, Central"
+      },
+      {
+         "id":"fd",
+         "text":"Sahara"
+      },
+      {
+         "id":"fe",
+         "text":"Africa, Eastern"
+      },
+      {
+         "id":"ff",
+         "text":"Africa, North"
+      },
+      {
+         "id":"fg",
+         "text":"Congo River"
+      },
+      {
+         "id":"fh",
+         "text":"Africa, Northeast"
+      },
+      {
+         "id":"fi",
+         "text":"Niger River"
+      },
+      {
+         "id":"fl",
+         "text":"Nile River"
+      },
+      {
+         "id":"fn",
+         "text":"Sudan (Region)"
+      },
+      {
+         "id":"fq",
+         "text":"Africa, French-speaking Equatorial"
+      },
+      {
+         "id":"fr",
+         "text":"Great Rift Valley"
+      },
+      {
+         "id":"fs",
+         "text":"Africa, Southern"
+      },
+      {
+         "id":"fu",
+         "text":"Suez Canal (Egypt)"
+      },
+      {
+         "id":"fv",
+         "text":"Volta River (Ghana)"
+      },
+      {
+         "id":"fw",
+         "text":"Africa, West"
+      },
+      {
+         "id":"fz",
+         "text":"Zambezi River"
+      },
+      {
+         "id":"h",
+         "text":"French Community"
+      },
+      {
+         "id":"i",
+         "text":"Indian Ocean"
+      },
+      {
+         "id":"i-bi",
+         "text":"British Indian Ocean Territory"
+      },
+      {
+         "id":"i-cq",
+         "text":"Comoros"
+      },
+      {
+         "id":"i-fs",
+         "text":"Terres australes et antarctiques françaises"
+      },
+      {
+         "id":"i-hm",
+         "text":"Heard and McDonald Islands"
+      },
+      {
+         "id":"i-mf",
+         "text":"Mauritius"
+      },
+      {
+         "id":"i-my",
+         "text":"Mayotte"
+      },
+      {
+         "id":"i-re",
+         "text":"Réunion"
+      },
+      {
+         "id":"i-se",
+         "text":"Seychelles"
+      },
+      {
+         "id":"i-xa",
+         "text":"Christmas Island (Indian Ocean)"
+      },
+      {
+         "id":"i-xb",
+         "text":"Cocos (Keeling) Islands"
+      },
+      {
+         "id":"i-xc",
+         "text":"Maldives"
+      },
+      {
+         "id":"-i-xo",
+         "text":"Socotra Island"
+      },
+      {
+         "id":"l",
+         "text":"Atlantic Ocean"
+      },
+      {
+         "id":"ln",
+         "text":"North Atlantic Ocean"
+      },
+      {
+         "id":"lnaz",
+         "text":"Azores"
+      },
+      {
+         "id":"lnbm",
+         "text":"Bermuda Islands"
+      },
+      {
+         "id":"lnca",
+         "text":"Canary Islands"
+      },
+      {
+         "id":"lncv",
+         "text":"Cabo Verde"
+      },
+      {
+         "id":"lnfa",
+         "text":"Faroe Islands"
+      },
+      {
+         "id":"lnjn",
+         "text":"Jan Mayen Island"
+      },
+      {
+         "id":"lnma",
+         "text":"Madeira Islands"
+      },
+      {
+         "id":"lnsb",
+         "text":"Svalbard (Norway)"
+      },
+      {
+         "id":"ls",
+         "text":"South Atlantic Ocean"
+      },
+      {
+         "id":"lsai",
+         "text":"Ascension Island (Atlantic Ocean)"
+      },
+      {
+         "id":"lsbv",
+         "text":"Bouvet Island"
+      },
+      {
+         "id":"lsfk",
+         "text":"Falkland Islands"
+      },
+      {
+         "id":"lstd",
+         "text":"Tristan da Cunha"
+      },
+      {
+         "id":"lsxj",
+         "text":"Saint Helena"
+      },
+      {
+         "id":"lsxs",
+         "text":"South Georgia and South Sandwich Islands"
+      },
+      {
+         "id":"m",
+         "text":"Intercontinental areas (Eastern Hemisphere)"
+      },
+      {
+         "id":"ma",
+         "text":"Arab countries"
+      },
+      {
+         "id":"mb",
+         "text":"Black Sea"
+      },
+      {
+         "id":"me",
+         "text":"Eurasia"
+      },
+      {
+         "id":"mm",
+         "text":"Mediterranean Region; Mediterranean Sea"
+      },
+      {
+         "id":"mr",
+         "text":"Red Sea"
+      },
+      {
+         "id":"n",
+         "text":"North America"
+      },
+      {
+         "id":"n-cn",
+         "text":"Canada"
+      },
+      {
+         "id":"n-cn-ab",
+         "text":"Alberta"
+      },
+      {
+         "id":"n-cn-bc",
+         "text":"British Columbia"
+      },
+      {
+         "id":"n-cn-mb",
+         "text":"Manitoba"
+      },
+      {
+         "id":"n-cn-nf",
+         "text":"Newfoundland and Labrador"
+      },
+      {
+         "id":"n-cn-nk",
+         "text":"New Brunswick"
+      },
+      {
+         "id":"n-cn-ns",
+         "text":"Nova Scotia"
+      },
+      {
+         "id":"n-cn-nt",
+         "text":"Northwest Territories"
+      },
+      {
+         "id":"n-cn-nu",
+         "text":"Nunavut"
+      },
+      {
+         "id":"n-cn-on",
+         "text":"Ontario"
+      },
+      {
+         "id":"n-cn-pi",
+         "text":"Prince Edward Island"
+      },
+      {
+         "id":"n-cn-qu",
+         "text":"Québec (Province)"
+      },
+      {
+         "id":"n-cn-sn",
+         "text":"Saskatchewan"
+      },
+      {
+         "id":"n-cn-yk",
+         "text":"Yukon Territory"
+      },
+      {
+         "id":"n-cnh",
+         "text":"Hudson Bay"
+      },
+      {
+         "id":"n-cnm",
+         "text":"Maritime Provinces"
+      },
+      {
+         "id":"n-cnp",
+         "text":"Prairie Provinces"
+      },
+      {
+         "id":"n-gl",
+         "text":"Greenland"
+      },
+      {
+         "id":"n-mx",
+         "text":"Mexico"
+      },
+      {
+         "id":"n-us",
+         "text":"United States"
+      },
+      {
+         "id":"n-us-ak",
+         "text":"Alaska"
+      },
+      {
+         "id":"n-us-al",
+         "text":"Alabama"
+      },
+      {
+         "id":"n-us-ar",
+         "text":"Arkansas"
+      },
+      {
+         "id":"n-us-az",
+         "text":"Arizona"
+      },
+      {
+         "id":"n-us-ca",
+         "text":"California"
+      },
+      {
+         "id":"n-us-co",
+         "text":"Colorado"
+      },
+      {
+         "id":"n-us-ct",
+         "text":"Connecticut"
+      },
+      {
+         "id":"n-us-dc",
+         "text":"Washington (D.C.)"
+      },
+      {
+         "id":"n-us-de",
+         "text":"Delaware"
+      },
+      {
+         "id":"n-us-fl",
+         "text":"Florida"
+      },
+      {
+         "id":"n-us-ga",
+         "text":"Georgia"
+      },
+      {
+         "id":"n-us-hi",
+         "text":"Hawaii"
+      },
+      {
+         "id":"n-us-ia",
+         "text":"Iowa"
+      },
+      {
+         "id":"n-us-id",
+         "text":"Idaho"
+      },
+      {
+         "id":"n-us-il",
+         "text":"Illinois"
+      },
+      {
+         "id":"n-us-in",
+         "text":"Indiana"
+      },
+      {
+         "id":"n-us-ks",
+         "text":"Kansas"
+      },
+      {
+         "id":"n-us-ky",
+         "text":"Kentucky"
+      },
+      {
+         "id":"n-us-la",
+         "text":"Louisiana"
+      },
+      {
+         "id":"n-us-ma",
+         "text":"Massachusetts"
+      },
+      {
+         "id":"n-us-md",
+         "text":"Maryland"
+      },
+      {
+         "id":"n-us-me",
+         "text":"Maine"
+      },
+      {
+         "id":"n-us-mi",
+         "text":"Michigan"
+      },
+      {
+         "id":"n-us-mn",
+         "text":"Minnesota"
+      },
+      {
+         "id":"n-us-mo",
+         "text":"Missouri"
+      },
+      {
+         "id":"n-us-ms",
+         "text":"Mississippi"
+      },
+      {
+         "id":"n-us-mt",
+         "text":"Montana"
+      },
+      {
+         "id":"n-us-nb",
+         "text":"Nebraska"
+      },
+      {
+         "id":"n-us-nc",
+         "text":"North Carolina"
+      },
+      {
+         "id":"n-us-nd",
+         "text":"North Dakota"
+      },
+      {
+         "id":"n-us-nh",
+         "text":"New Hampshire"
+      },
+      {
+         "id":"n-us-nj",
+         "text":"New Jersey"
+      },
+      {
+         "id":"n-us-nm",
+         "text":"New Mexico"
+      },
+      {
+         "id":"n-us-nv",
+         "text":"Nevada"
+      },
+      {
+         "id":"n-us-ny",
+         "text":"New York"
+      },
+      {
+         "id":"n-us-oh",
+         "text":"Ohio"
+      },
+      {
+         "id":"n-us-ok",
+         "text":"Oklahoma"
+      },
+      {
+         "id":"n-us-or",
+         "text":"Oregon"
+      },
+      {
+         "id":"n-us-pa",
+         "text":"Pennsylvania"
+      },
+      {
+         "id":"n-us-ri",
+         "text":"Rhode Island"
+      },
+      {
+         "id":"n-us-sc",
+         "text":"South Carolina"
+      },
+      {
+         "id":"n-us-sd",
+         "text":"South Dakota"
+      },
+      {
+         "id":"n-us-tn",
+         "text":"Tennessee"
+      },
+      {
+         "id":"n-us-tx",
+         "text":"Texas"
+      },
+      {
+         "id":"n-us-ut",
+         "text":"Utah"
+      },
+      {
+         "id":"n-us-va",
+         "text":"Virginia"
+      },
+      {
+         "id":"n-us-vt",
+         "text":"Vermont"
+      },
+      {
+         "id":"n-us-wa",
+         "text":"Washington (State)"
+      },
+      {
+         "id":"n-us-wi",
+         "text":"Wisconsin"
+      },
+      {
+         "id":"n-us-wv",
+         "text":"West Virginia"
+      },
+      {
+         "id":"n-us-wy",
+         "text":"Wyoming"
+      },
+      {
+         "id":"n-usa",
+         "text":"Appalachian Mountains"
+      },
+      {
+         "id":"n-usc",
+         "text":"Middle West"
+      },
+      {
+         "id":"n-use",
+         "text":"Northeastern States"
+      },
+      {
+         "id":"n-usl",
+         "text":"Middle Atlantic States"
+      },
+      {
+         "id":"n-usm",
+         "text":"Mississippi River"
+      },
+      {
+         "id":"n-usn",
+         "text":"New England"
+      },
+      {
+         "id":"n-uso",
+         "text":"Ohio River"
+      },
+      {
+         "id":"n-usp",
+         "text":"West (U.S.)"
+      },
+      {
+         "id":"n-usr",
+         "text":"East (U.S.)"
+      },
+      {
+         "id":"n-uss",
+         "text":"Missouri River"
+      },
+      {
+         "id":"n-ust",
+         "text":"Southwest, New"
+      },
+      {
+         "id":"n-usu",
+         "text":"Southern States"
+      },
+      {
+         "id":"-n-usw",
+         "text":"Northwest (U.S.)"
+      },
+      {
+         "id":"n-xl",
+         "text":"Saint Pierre and Miquelon"
+      },
+      {
+         "id":"nc",
+         "text":"Central America"
+      },
+      {
+         "id":"ncbh",
+         "text":"Belize"
+      },
+      {
+         "id":"nccr",
+         "text":"Costa Rica"
+      },
+      {
+         "id":"nccz",
+         "text":"Canal Zone"
+      },
+      {
+         "id":"nces",
+         "text":"El Salvador"
+      },
+      {
+         "id":"ncgt",
+         "text":"Guatemala"
+      },
+      {
+         "id":"ncho",
+         "text":"Honduras"
+      },
+      {
+         "id":"ncnq",
+         "text":"Nicaragua"
+      },
+      {
+         "id":"ncpn",
+         "text":"Panama"
+      },
+      {
+         "id":"nl",
+         "text":"Great Lakes (North America); Lake States"
+      },
+      {
+         "id":"nm",
+         "text":"Mexico, Gulf of"
+      },
+      {
+         "id":"np",
+         "text":"Great Plains"
+      },
+      {
+         "id":"nr",
+         "text":"Rocky Mountains"
+      },
+      {
+         "id":"nw",
+         "text":"West Indies"
+      },
+      {
+         "id":"nwaq",
+         "text":"Antigua and Barbuda"
+      },
+      {
+         "id":"nwaw",
+         "text":"Aruba"
+      },
+      {
+         "id":"nwbb",
+         "text":"Barbados"
+      },
+      {
+         "id":"-nwbc",
+         "text":"Barbuda"
+      },
+      {
+         "id":"nwbf",
+         "text":"Bahamas"
+      },
+      {
+         "id":"nwbn",
+         "text":"Bonaire"
+      },
+      {
+         "id":"nwcj",
+         "text":"Cayman Islands"
+      },
+      {
+         "id":"nwco",
+         "text":"Curaçao"
+      },
+      {
+         "id":"nwcu",
+         "text":"Cuba"
+      },
+      {
+         "id":"nwdq",
+         "text":"Dominica"
+      },
+      {
+         "id":"nwdr",
+         "text":"Dominican Republic"
+      },
+      {
+         "id":"nweu",
+         "text":"Sint Eustatius"
+      },
+      {
+         "id":"-nwga",
+         "text":"Greater Antilles"
+      },
+      {
+         "id":"nwgd",
+         "text":"Grenada"
+      },
+      {
+         "id":"nwgp",
+         "text":"Guadeloupe"
+      },
+      {
+         "id":"-nwgs",
+         "text":"Grenadines"
+      },
+      {
+         "id":"nwhi",
+         "text":"Hispaniola"
+      },
+      {
+         "id":"nwht",
+         "text":"Haiti"
+      },
+      {
+         "id":"nwjm",
+         "text":"Jamaica"
+      },
+      {
+         "id":"nwla",
+         "text":"Antilles, Lesser"
+      },
+      {
+         "id":"nwli",
+         "text":"Leeward Islands (West Indies)"
+      },
+      {
+         "id":"nwmj",
+         "text":"Montserrat"
+      },
+      {
+         "id":"nwmq",
+         "text":"Martinique"
+      },
+      {
+         "id":"-nwna",
+         "text":"Netherlands Antilles"
+      },
+      {
+         "id":"nwpr",
+         "text":"Puerto Rico"
+      },
+      {
+         "id":"-nwsb",
+         "text":"Saint-Barthélemy"
+      },
+      {
+         "id":"nwsc",
+         "text":"Saint-Barthélemy"
+      },
+      {
+         "id":"nwsd",
+         "text":"Saba"
+      },
+      {
+         "id":"nwsn",
+         "text":"Sint Maarten"
+      },
+      {
+         "id":"nwst",
+         "text":"Saint-Martin"
+      },
+      {
+         "id":"nwsv",
+         "text":"Swan Islands (Honduras)"
+      },
+      {
+         "id":"nwtc",
+         "text":"Turks and Caicos Islands"
+      },
+      {
+         "id":"nwtr",
+         "text":"Trinidad and Tobago"
+      },
+      {
+         "id":"nwuc",
+         "text":"United States Miscellaneous Caribbean Islands"
+      },
+      {
+         "id":"nwvb",
+         "text":"British Virgin Islands"
+      },
+      {
+         "id":"nwvi",
+         "text":"Virgin Islands of the United States"
+      },
+      {
+         "id":"-nwvr",
+         "text":"Virgin Islands"
+      },
+      {
+         "id":"nwwi",
+         "text":"Windward Islands (West Indies)"
+      },
+      {
+         "id":"nwxa",
+         "text":"Anguilla"
+      },
+      {
+         "id":"nwxi",
+         "text":"Saint Kitts and Nevis"
+      },
+      {
+         "id":"nwxk",
+         "text":"Saint Lucia"
+      },
+      {
+         "id":"nwxm",
+         "text":"Saint Vincent and the Grenadines"
+      },
+      {
+         "id":"p",
+         "text":"Pacific Ocean"
+      },
+      {
+         "id":"pn",
+         "text":"North Pacific Ocean"
+      },
+      {
+         "id":"po",
+         "text":"Oceania"
+      },
+      {
+         "id":"poas",
+         "text":"American Samoa"
+      },
+      {
+         "id":"pobp",
+         "text":"Solomon Islands"
+      },
+      {
+         "id":"poci",
+         "text":"Caroline Islands"
+      },
+      {
+         "id":"-pocp",
+         "text":"Canton and Enderbury Islands"
+      },
+      {
+         "id":"pocw",
+         "text":"Cook Islands"
+      },
+      {
+         "id":"poea",
+         "text":"Easter Island"
+      },
+      {
+         "id":"pofj",
+         "text":"Fiji"
+      },
+      {
+         "id":"pofp",
+         "text":"French Polynesia"
+      },
+      {
+         "id":"pogg",
+         "text":"Galapagos Islands"
+      },
+      {
+         "id":"-pogn",
+         "text":"Gilbert and Ellice Islands"
+      },
+      {
+         "id":"pogu",
+         "text":"Guam"
+      },
+      {
+         "id":"poji",
+         "text":"Johnston Island"
+      },
+      {
+         "id":"pokb",
+         "text":"Kiribati"
+      },
+      {
+         "id":"poki",
+         "text":"Kermadec Islands"
+      },
+      {
+         "id":"poln",
+         "text":"Line Islands"
+      },
+      {
+         "id":"pome",
+         "text":"Melanesia"
+      },
+      {
+         "id":"pomi",
+         "text":"Micronesia (Federated States)"
+      },
+      {
+         "id":"ponl",
+         "text":"New Caledonia"
+      },
+      {
+         "id":"ponn",
+         "text":"Vanuatu"
+      },
+      {
+         "id":"ponu",
+         "text":"Nauru"
+      },
+      {
+         "id":"popc",
+         "text":"Pitcairn Island"
+      },
+      {
+         "id":"popl",
+         "text":"Palau"
+      },
+      {
+         "id":"pops",
+         "text":"Polynesia"
+      },
+      {
+         "id":"-pory",
+         "text":"Ryukyu Islands, Southern"
+      },
+      {
+         "id":"-posc",
+         "text":"Santa Cruz Islands"
+      },
+      {
+         "id":"posh",
+         "text":"Samoan Islands"
+      },
+      {
+         "id":"-posn",
+         "text":"Solomon Islands"
+      },
+      {
+         "id":"potl",
+         "text":"Tokelau"
+      },
+      {
+         "id":"poto",
+         "text":"Tonga"
+      },
+      {
+         "id":"pott",
+         "text":"Micronesia"
+      },
+      {
+         "id":"potv",
+         "text":"Tuvalu"
+      },
+      {
+         "id":"poup",
+         "text":"United States Miscellaneous Pacific Islands"
+      },
+      {
+         "id":"powf",
+         "text":"Wallis and Futuna Islands"
+      },
+      {
+         "id":"powk",
+         "text":"Wake Island"
+      },
+      {
+         "id":"pows",
+         "text":"Samoa"
+      },
+      {
+         "id":"poxd",
+         "text":"Mariana Islands"
+      },
+      {
+         "id":"poxe",
+         "text":"Marshall Islands"
+      },
+      {
+         "id":"poxf",
+         "text":"Midway Islands"
+      },
+      {
+         "id":"poxh",
+         "text":"Niue"
+      },
+      {
+         "id":"ps",
+         "text":"South Pacific Ocean"
+      },
+      {
+         "id":"q",
+         "text":"Cold regions"
+      },
+      {
+         "id":"r",
+         "text":"Arctic Ocean; Arctic regions"
+      },
+      {
+         "id":"s",
+         "text":"South America"
+      },
+      {
+         "id":"s-ag",
+         "text":"Argentina"
+      },
+      {
+         "id":"s-bl",
+         "text":"Brazil"
+      },
+      {
+         "id":"s-bo",
+         "text":"Bolivia"
+      },
+      {
+         "id":"s-ck",
+         "text":"Colombia"
+      },
+      {
+         "id":"s-cl",
+         "text":"Chile"
+      },
+      {
+         "id":"s-ec",
+         "text":"Ecuador"
+      },
+      {
+         "id":"s-fg",
+         "text":"French Guiana"
+      },
+      {
+         "id":"s-gy",
+         "text":"Guyana"
+      },
+      {
+         "id":"s-pe",
+         "text":"Peru"
+      },
+      {
+         "id":"s-py",
+         "text":"Paraguay"
+      },
+      {
+         "id":"s-sr",
+         "text":"Suriname"
+      },
+      {
+         "id":"s-uy",
+         "text":"Uruguay"
+      },
+      {
+         "id":"s-ve",
+         "text":"Venezuela"
+      },
+      {
+         "id":"sa",
+         "text":"Amazon River"
+      },
+      {
+         "id":"sn",
+         "text":"Andes"
+      },
+      {
+         "id":"sp",
+         "text":"Rio de la Plata (Argentina and Uruguay)"
+      },
+      {
+         "id":"t",
+         "text":"Antarctic Ocean; Antarctica"
+      },
+      {
+         "id":"-t-ay",
+         "text":"Antarctica"
+      },
+      {
+         "id":"u",
+         "text":"Australasia"
+      },
+      {
+         "id":"u-ac",
+         "text":"Ashmore and Cartier Islands"
+      },
+      {
+         "id":"u-at",
+         "text":"Australia"
+      },
+      {
+         "id":"u-at-ac",
+         "text":"Australian Capital Territory"
+      },
+      {
+         "id":"u-atc",
+         "text":"Central Australia"
+      },
+      {
+         "id":"u-ate",
+         "text":"Eastern Australia"
+      },
+      {
+         "id":"u-atn",
+         "text":"Northern Australia"
+      },
+      {
+         "id":"u-at-ne",
+         "text":"New South Wales"
+      },
+      {
+         "id":"u-at-no",
+         "text":"Northern Territory"
+      },
+      {
+         "id":"u-at-qn",
+         "text":"Queensland"
+      },
+      {
+         "id":"u-at-sa",
+         "text":"South Australia"
+      },
+      {
+         "id":"u-at-tm",
+         "text":"Tasmania"
+      },
+      {
+         "id":"u-at-vi",
+         "text":"Victoria"
+      },
+      {
+         "id":"u-at-we",
+         "text":"Western Australia"
+      },
+      {
+         "id":"u-cs",
+         "text":"Coral Sea Islands"
+      },
+      {
+         "id":"u-nz",
+         "text":"New Zealand"
+      },
+      {
+         "id":"-v",
+         "text":"Communist countries"
+      },
+      {
+         "id":"w",
+         "text":"Tropics"
+      },
+      {
+         "id":"x",
+         "text":"Earth"
+      },
+      {
+         "id":"xa",
+         "text":"Eastern Hemisphere"
+      },
+      {
+         "id":"xb",
+         "text":"Northern Hemisphere"
+      },
+      {
+         "id":"xc",
+         "text":"Southern Hemisphere"
+      },
+      {
+         "id":"xd",
+         "text":"Western Hemisphere"
+      },
+      {
+         "id":"zd",
+         "text":"Deep space"
+      },
+      {
+         "id":"zju",
+         "text":"Jupiter"
+      },
+      {
+         "id":"zma",
+         "text":"Mars"
+      },
+      {
+         "id":"zme",
+         "text":"Mercury"
+      },
+      {
+         "id":"zmo",
+         "text":"Moon"
+      },
+      {
+         "id":"zne",
+         "text":"Neptune"
+      },
+      {
+         "id":"zo",
+         "text":"Outer space"
+      },
+      {
+         "id":"zpl",
+         "text":"Pluto"
+      },
+      {
+         "id":"zs",
+         "text":"Solar system"
+      },
+      {
+         "id":"zsa",
+         "text":"Saturn"
+      },
+      {
+         "id":"zsu",
+         "text":"Sun"
+      },
+      {
+         "id":"zur",
+         "text":"Uranus"
+      },
+      {
+         "id":"zve",
+         "text":"Venus"
+      }
    ]
 }
