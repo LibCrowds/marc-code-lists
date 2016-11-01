@@ -1,4 +1,4 @@
-let countryCodeSequence = [
+let marcCountryCodes = [
     {id: '', text: ''},
     {id: 'aa', text: 'Albania'},
     {id: 'abc', text: 'Alberta'},
