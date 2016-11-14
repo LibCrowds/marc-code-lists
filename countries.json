@@ -1,4726 +1,4726 @@
 [
     {
-        "text": "Abu Dhabi",
+        "text": "Abu Dhabi", 
         "id": "ts"
-    },
+    }, 
     {
-        "text": "Abu Zaby",
+        "text": "Abu Zaby", 
         "id": "ts"
-    },
+    }, 
     {
-        "text": "Aden",
+        "text": "Aden", 
         "id": "ye"
-    },
+    }, 
     {
-        "text": "Aden (Protectorate)",
+        "text": "Aden (Protectorate)", 
         "id": "ye"
-    },
+    }, 
     {
-        "text": "Admiralty Islands",
+        "text": "Admiralty Islands", 
         "id": "pp"
-    },
+    }, 
     {
-        "text": "Aegean Islands",
+        "text": "Aegean Islands", 
         "id": "gr"
-    },
+    }, 
     {
-        "text": "Afars",
+        "text": "Afars", 
         "id": "ft"
-    },
+    }, 
     {
-        "text": "Afghanistan",
+        "text": "Afghanistan", 
         "id": "af"
-    },
+    }, 
     {
-        "text": "Agalega Islands",
+        "text": "Agalega Islands", 
         "id": "mf"
-    },
+    }, 
     {
-        "text": "Agrihan Island",
+        "text": "Agrihan Island", 
         "id": "nw"
-    },
+    }, 
     {
-        "text": "Aguijan Island",
+        "text": "Aguijan Island", 
         "id": "nw"
-    },
+    }, 
     {
-        "text": "Ahvenanmaa",
+        "text": "Ahvenanmaa", 
         "id": "fi"
-    },
+    }, 
     {
-        "text": "Ailinglapalap Atoll",
+        "text": "Ailinglapalap Atoll", 
         "id": "xe"
-    },
+    }, 
     {
-        "text": "Alabama",
+        "text": "Alabama", 
         "id": "alu"
-    },
+    }, 
     {
-        "text": "Alamagan Island",
+        "text": "Alamagan Island", 
         "id": "nw"
-    },
+    }, 
     {
-        "text": "Alaska",
+        "text": "Alaska", 
         "id": "aku"
-    },
+    }, 
     {
-        "text": "Albania",
+        "text": "Albania", 
         "id": "aa"
-    },
+    }, 
     {
-        "text": "Alberta",
+        "text": "Alberta", 
         "id": "abc"
-    },
+    }, 
     {
-        "text": "Aldabra Islands",
+        "text": "Aldabra Islands", 
         "id": "se"
-    },
+    }, 
     {
-        "text": "Alderney",
+        "text": "Alderney", 
         "id": "uik"
-    },
+    }, 
     {
-        "text": "Algeria",
+        "text": "Algeria", 
         "id": "ae"
-    },
+    }, 
     {
-        "text": "Alofi",
+        "text": "Alofi", 
         "id": "wf"
-    },
+    }, 
     {
-        "text": "Alphonse Island",
+        "text": "Alphonse Island", 
         "id": "se"
-    },
+    }, 
     {
-        "text": "American Samoa",
+        "text": "American Samoa", 
         "id": "as"
-    },
+    }, 
     {
-        "text": "Amindivi Islands",
+        "text": "Amindivi Islands", 
         "id": "ii"
-    },
+    }, 
     {
-        "text": "Amirante Isles",
+        "text": "Amirante Isles", 
         "id": "se"
-    },
+    }, 
     {
-        "text": "Amsterdam Island",
+        "text": "Amsterdam Island", 
         "id": "fs"
-    },
+    }, 
     {
-        "text": "Anatahan Island",
+        "text": "Anatahan Island", 
         "id": "nw"
-    },
+    }, 
     {
-        "text": "Andaman Islands",
+        "text": "Andaman Islands", 
         "id": "ii"
-    },
+    }, 
     {
-        "text": "Andorra",
+        "text": "Andorra", 
         "id": "an"
-    },
+    }, 
     {
-        "text": "Anegada",
+        "text": "Anegada", 
         "id": "vb"
-    },
+    }, 
     {
-        "text": "Angaur Island",
+        "text": "Angaur Island", 
         "id": "pw"
-    },
+    }, 
     {
-        "text": "Angola",
+        "text": "Angola", 
         "id": "ao"
-    },
+    }, 
     {
-        "text": "Anguilla",
+        "text": "Anguilla", 
         "id": "am"
-    },
+    }, 
     {
-        "text": "Anjouan Island",
+        "text": "Anjouan Island", 
         "id": "cq"
-    },
+    }, 
     {
-        "text": "Annobón",
+        "text": "Annobón", 
         "id": "eg"
-    },
+    }, 
     {
-        "text": "Antarctica",
+        "text": "Antarctica", 
         "id": "ay"
-    },
+    }, 
     {
-        "text": "Antigua",
+        "text": "Antigua", 
         "id": "aq"
-    },
+    }, 
     {
-        "text": "Antigua and Barbuda",
+        "text": "Antigua and Barbuda", 
         "id": "aq"
-    },
+    }, 
     {
-        "text": "Arab Republic of Egypt",
+        "text": "Arab Republic of Egypt", 
         "id": "ua"
-    },
+    }, 
     {
-        "text": "Arab Republic of Yemen",
+        "text": "Arab Republic of Yemen", 
         "id": "ye"
-    },
+    }, 
     {
-        "text": "Archipiélago de Colón",
+        "text": "Archipiélago de Colón", 
         "id": "ec"
-    },
+    }, 
     {
-        "text": "Argentina",
+        "text": "Argentina", 
         "id": "ag"
-    },
+    }, 
     {
-        "text": "Arizona",
+        "text": "Arizona", 
         "id": "azu"
-    },
+    }, 
     {
-        "text": "Arkansas",
+        "text": "Arkansas", 
         "id": "aru"
-    },
+    }, 
     {
-        "text": "Armenia (Republic)",
+        "text": "Armenia (Republic)", 
         "id": "ai"
-    },
+    }, 
     {
-        "text": "Armenian S.S.R.",
+        "text": "Armenian S.S.R.", 
         "id": "ai"
-    },
+    }, 
     {
-        "text": "Armenian S.S.R.",
+        "text": "Armenian S.S.R.", 
         "id": "ai"
-    },
+    }, 
     {
-        "text": "Armenian S.S.R.",
+        "text": "Armenian S.S.R.", 
         "id": "ai"
-    },
+    }, 
     {
-        "text": "Arno (Atoll)",
+        "text": "Arno (Atoll)", 
         "id": "xe"
-    },
+    }, 
     {
-        "text": "Arquipélago dos Bijagós",
+        "text": "Arquipélago dos Bijagós", 
         "id": "pg"
-    },
+    }, 
     {
-        "text": "Aruba",
+        "text": "Aruba", 
         "id": "aw"
-    },
+    }, 
     {
-        "text": "Ascension Island (Atlantic Ocean)",
+        "text": "Ascension Island (Atlantic Ocean)", 
         "id": "xj"
-    },
+    }, 
     {
-        "text": "Ascension Island (Micronesia)",
+        "text": "Ascension Island (Micronesia)", 
         "id": "fm"
-    },
+    }, 
     {
-        "text": "Ashanti",
+        "text": "Ashanti", 
         "id": "gh"
-    },
+    }, 
     {
-        "text": "Ashmore and Cartier Islands",
+        "text": "Ashmore and Cartier Islands", 
         "id": "at"
-    },
+    }, 
     {
-        "text": "Ashmore and Cartier Islands",
+        "text": "Ashmore and Cartier Islands", 
         "id": "at"
-    },
+    }, 
     {
-        "text": "Asuncion Island",
+        "text": "Asuncion Island", 
         "id": "nw"
-    },
+    }, 
     {
-        "text": "Atafu Atoll",
+        "text": "Atafu Atoll", 
         "id": "tl"
-    },
+    }, 
     {
-        "text": "Atauro, Ilha de",
+        "text": "Atauro, Ilha de", 
         "id": "em"
-    },
+    }, 
     {
-        "text": "Austral Islands",
+        "text": "Austral Islands", 
         "id": "fp"
-    },
+    }, 
     {
-        "text": "Australia",
+        "text": "Australia", 
         "id": "at"
-    },
+    }, 
     {
-        "text": "Australian Capital Territory",
+        "text": "Australian Capital Territory", 
         "id": "aca"
-    },
+    }, 
     {
-        "text": "Austria",
+        "text": "Austria", 
         "id": "au"
-    },
+    }, 
     {
-        "text": "Azerbaijan",
+        "text": "Azerbaijan", 
         "id": "aj"
-    },
+    }, 
     {
-        "text": "Azerbaijan S.S.R.",
+        "text": "Azerbaijan S.S.R.", 
         "id": "aj"
-    },
+    }, 
     {
-        "text": "Azerbaijan S.S.R.",
+        "text": "Azerbaijan S.S.R.", 
         "id": "aj"
-    },
+    }, 
     {
-        "text": "Azerbaijan S.S.R. ",
+        "text": "Azerbaijan S.S.R. ", 
         "id": "aj"
-    },
+    }, 
     {
-        "text": "Azores",
+        "text": "Azores", 
         "id": "po"
-    },
+    }, 
     {
-        "text": "BES Islands",
+        "text": "BES Islands", 
         "id": "ca"
-    },
+    }, 
     {
-        "text": "Babelthuap Island",
+        "text": "Babelthuap Island", 
         "id": "pw"
-    },
+    }, 
     {
-        "text": "Bahamas",
+        "text": "Bahamas", 
         "id": "bf"
-    },
+    }, 
     {
-        "text": "Bahrain",
+        "text": "Bahrain", 
         "id": "ba"
-    },
+    }, 
     {
-        "text": "Bahrein",
+        "text": "Bahrein", 
         "id": "ba"
-    },
+    }, 
     {
-        "text": "Baker Island",
+        "text": "Baker Island", 
         "id": "up"
-    },
+    }, 
     {
-        "text": "Balearic Islands",
+        "text": "Balearic Islands", 
         "id": "sp"
-    },
+    }, 
     {
-        "text": "Banaba",
+        "text": "Banaba", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Bangladesh",
+        "text": "Bangladesh", 
         "id": "bg"
-    },
+    }, 
     {
-        "text": "Banks Islands",
+        "text": "Banks Islands", 
         "id": "nn"
-    },
+    }, 
     {
-        "text": "Barbados",
+        "text": "Barbados", 
         "id": "bb"
-    },
+    }, 
     {
-        "text": "Barbuda",
+        "text": "Barbuda", 
         "id": "aq"
-    },
+    }, 
     {
-        "text": "Bassas da India",
+        "text": "Bassas da India", 
         "id": "re"
-    },
+    }, 
     {
-        "text": "Basse-Terre",
+        "text": "Basse-Terre", 
         "id": "gp"
-    },
+    }, 
     {
-        "text": "Basutoland",
+        "text": "Basutoland", 
         "id": "lo"
-    },
+    }, 
     {
-        "text": "Bear Island",
+        "text": "Bear Island", 
         "id": "no"
-    },
+    }, 
     {
-        "text": "Bechuanaland",
+        "text": "Bechuanaland", 
         "id": "bs"
-    },
+    }, 
     {
-        "text": "Belarus",
+        "text": "Belarus", 
         "id": "bw"
-    },
+    }, 
     {
-        "text": "Belau",
+        "text": "Belau", 
         "id": "pw"
-    },
+    }, 
     {
-        "text": "Belep Islands",
+        "text": "Belep Islands", 
         "id": "nl"
-    },
+    }, 
     {
-        "text": "Belgian Congo",
+        "text": "Belgian Congo", 
         "id": "cg"
-    },
+    }, 
     {
-        "text": "Belgium",
+        "text": "Belgium", 
         "id": "be"
-    },
+    }, 
     {
-        "text": "Belize",
+        "text": "Belize", 
         "id": "bh"
-    },
+    }, 
     {
-        "text": "Belorussian S.S.R.",
+        "text": "Belorussian S.S.R.", 
         "id": "bw"
-    },
+    }, 
     {
-        "text": "Benin",
+        "text": "Benin", 
         "id": "dm"
-    },
+    }, 
     {
-        "text": "Berlin, East",
+        "text": "Berlin, East", 
         "id": "gw"
-    },
+    }, 
     {
-        "text": "Berlin, West",
+        "text": "Berlin, West", 
         "id": "gw"
-    },
+    }, 
     {
-        "text": "Bermuda Islands",
+        "text": "Bermuda Islands", 
         "id": "bm"
-    },
+    }, 
     {
-        "text": "Bhutan",
+        "text": "Bhutan", 
         "id": "bt"
-    },
+    }, 
     {
-        "text": "Bijagós, Arquipélago dos",
+        "text": "Bijagós, Arquipélago dos", 
         "id": "pg"
-    },
+    }, 
     {
-        "text": "Bijoutier Island",
+        "text": "Bijoutier Island", 
         "id": "se"
-    },
+    }, 
     {
-        "text": "Bikini (Atoll)",
+        "text": "Bikini (Atoll)", 
         "id": "xe"
-    },
+    }, 
     {
-        "text": "Bioko",
+        "text": "Bioko", 
         "id": "eg"
-    },
+    }, 
     {
-        "text": "Birnie Island",
+        "text": "Birnie Island", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Bismarck Archipelago",
+        "text": "Bismarck Archipelago", 
         "id": "pp"
-    },
+    }, 
     {
-        "text": "Bissagos Islands",
+        "text": "Bissagos Islands", 
         "id": "pg"
-    },
+    }, 
     {
-        "text": "Boa Vista",
+        "text": "Boa Vista", 
         "id": "cv"
-    },
+    }, 
     {
-        "text": "Bolivia",
+        "text": "Bolivia", 
         "id": "bo"
-    },
+    }, 
     {
-        "text": "Bonaire",
+        "text": "Bonaire", 
         "id": "ca"
-    },
+    }, 
     {
-        "text": "Bonaire (Netherlands Antilles)",
+        "text": "Bonaire (Netherlands Antilles)", 
         "id": "ca"
-    },
+    }, 
     {
-        "text": "Bonaire, Saint Eustatius, and Saba",
+        "text": "Bonaire, Saint Eustatius, and Saba", 
         "id": "ca"
-    },
+    }, 
     {
-        "text": "Bonin Islands",
+        "text": "Bonin Islands", 
         "id": "ja"
-    },
+    }, 
     {
-        "text": "Bophuthatswana",
+        "text": "Bophuthatswana", 
         "id": "sa"
-    },
+    }, 
     {
-        "text": "Borneo, North",
+        "text": "Borneo, North", 
         "id": "my"
-    },
+    }, 
     {
-        "text": "Bornholm Island",
+        "text": "Bornholm Island", 
         "id": "dk"
-    },
+    }, 
     {
-        "text": "Bosnia and Hercegovina",
+        "text": "Bosnia and Hercegovina", 
         "id": "bn"
-    },
+    }, 
     {
-        "text": "Bosnia and Herzegovina",
+        "text": "Bosnia and Herzegovina", 
         "id": "bn"
-    },
+    }, 
     {
-        "text": "Botswana",
+        "text": "Botswana", 
         "id": "bs"
-    },
+    }, 
     {
-        "text": "Bouvet Island",
+        "text": "Bouvet Island", 
         "id": "bv"
-    },
+    }, 
     {
-        "text": "Brava",
+        "text": "Brava", 
         "id": "cv"
-    },
+    }, 
     {
-        "text": "Brazil",
+        "text": "Brazil", 
         "id": "bl"
-    },
+    }, 
     {
-        "text": "Brechou",
+        "text": "Brechou", 
         "id": "uik"
-    },
+    }, 
     {
-        "text": "British Cameroons",
+        "text": "British Cameroons", 
         "id": "cm"
-    },
+    }, 
     {
-        "text": "British Cameroons, Northern",
+        "text": "British Cameroons, Northern", 
         "id": "nr"
-    },
+    }, 
     {
-        "text": "British Columbia",
+        "text": "British Columbia", 
         "id": "bcc"
-    },
+    }, 
     {
-        "text": "British Guiana",
+        "text": "British Guiana", 
         "id": "gy"
-    },
+    }, 
     {
-        "text": "British Honduras",
+        "text": "British Honduras", 
         "id": "bh"
-    },
+    }, 
     {
-        "text": "British Indian Ocean Territory",
+        "text": "British Indian Ocean Territory", 
         "id": "bi"
-    },
+    }, 
     {
-        "text": "British Indian Ocean Territory",
+        "text": "British Indian Ocean Territory", 
         "id": "se"
-    },
+    }, 
     {
-        "text": "British Indian Ocean Territory",
+        "text": "British Indian Ocean Territory", 
         "id": "se"
-    },
+    }, 
     {
-        "text": "British Indian Ocean Territory",
+        "text": "British Indian Ocean Territory", 
         "id": "se"
-    },
+    }, 
     {
-        "text": "British Indian Ocean Territory",
+        "text": "British Indian Ocean Territory", 
         "id": "se"
-    },
+    }, 
     {
-        "text": "British Solomon Islands",
+        "text": "British Solomon Islands", 
         "id": "bp"
-    },
+    }, 
     {
-        "text": "British Virgin Islands",
+        "text": "British Virgin Islands", 
         "id": "vb"
-    },
+    }, 
     {
-        "text": "Brunei",
+        "text": "Brunei", 
         "id": "bx"
-    },
+    }, 
     {
-        "text": "Bulgaria",
+        "text": "Bulgaria", 
         "id": "bu"
-    },
+    }, 
     {
-        "text": "Burkina Faso",
+        "text": "Burkina Faso", 
         "id": "uv"
-    },
+    }, 
     {
-        "text": "Burma",
+        "text": "Burma", 
         "id": "br"
-    },
+    }, 
     {
-        "text": "Burundi",
+        "text": "Burundi", 
         "id": "bd"
-    },
+    }, 
     {
-        "text": "Byelarus",
+        "text": "Byelarus", 
         "id": "bw"
-    },
+    }, 
     {
-        "text": "Byelorussian S.S.R",
+        "text": "Byelorussian S.S.R", 
         "id": "bw"
-    },
+    }, 
     {
-        "text": "Byelorussian S.S.R.",
+        "text": "Byelorussian S.S.R.", 
         "id": "bw"
-    },
+    }, 
     {
-        "text": "Byeolorussian S.S.R.",
+        "text": "Byeolorussian S.S.R.", 
         "id": "bw"
-    },
+    }, 
     {
-        "text": "Cabinda",
+        "text": "Cabinda", 
         "id": "ao"
-    },
+    }, 
     {
-        "text": "Cabo Verde",
+        "text": "Cabo Verde", 
         "id": "cv"
-    },
+    }, 
     {
-        "text": "Caicos Islands",
+        "text": "Caicos Islands", 
         "id": "tc"
-    },
+    }, 
     {
-        "text": "California",
+        "text": "California", 
         "id": "cau"
-    },
+    }, 
     {
-        "text": "Cambodia",
+        "text": "Cambodia", 
         "id": "cb"
-    },
+    }, 
     {
-        "text": "Cameroon",
+        "text": "Cameroon", 
         "id": "cm"
-    },
+    }, 
     {
-        "text": "Canada",
+        "text": "Canada", 
         "id": "xxc"
-    },
+    }, 
     {
-        "text": "Canada",
+        "text": "Canada", 
         "id": "xxc"
-    },
+    }, 
     {
-        "text": "Canal Zone",
+        "text": "Canal Zone", 
         "id": "pn"
-    },
+    }, 
     {
-        "text": "Canal Zone",
+        "text": "Canal Zone", 
         "id": "pn"
-    },
+    }, 
     {
-        "text": "Canary Islands",
+        "text": "Canary Islands", 
         "id": "sp"
-    },
+    }, 
     {
-        "text": "Canton Island",
+        "text": "Canton Island", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Canton and Enderbury Islands",
+        "text": "Canton and Enderbury Islands", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Canton and Enderbury Islands",
+        "text": "Canton and Enderbury Islands", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Cape Verde",
+        "text": "Cape Verde", 
         "id": "cv"
-    },
+    }, 
     {
-        "text": "Cargados Carajos Shoals",
+        "text": "Cargados Carajos Shoals", 
         "id": "mf"
-    },
+    }, 
     {
-        "text": "Caribbean Netherlands",
+        "text": "Caribbean Netherlands", 
         "id": "ca"
-    },
+    }, 
     {
-        "text": "Caroline Island",
+        "text": "Caroline Island", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Cayman Brac Island",
+        "text": "Cayman Brac Island", 
         "id": "cj"
-    },
+    }, 
     {
-        "text": "Cayman Islands",
+        "text": "Cayman Islands", 
         "id": "cj"
-    },
+    }, 
     {
-        "text": "Central African Empire",
+        "text": "Central African Empire", 
         "id": "cx"
-    },
+    }, 
     {
-        "text": "Central African Republic",
+        "text": "Central African Republic", 
         "id": "cx"
-    },
+    }, 
     {
-        "text": "Central and Southern Line Islands",
+        "text": "Central and Southern Line Islands", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Central and Southern Line Islands",
+        "text": "Central and Southern Line Islands", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Central and Southern Line Islands",
+        "text": "Central and Southern Line Islands", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Central and Southern Line Islands",
+        "text": "Central and Southern Line Islands", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Central and Southern Line Islands",
+        "text": "Central and Southern Line Islands", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Central and Southern Line Islands",
+        "text": "Central and Southern Line Islands", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Central and Southern Line Islands",
+        "text": "Central and Southern Line Islands", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Central and Southern Line Islands",
+        "text": "Central and Southern Line Islands", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Central and Southern Line Islands",
+        "text": "Central and Southern Line Islands", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Ceuta",
+        "text": "Ceuta", 
         "id": "sh"
-    },
+    }, 
     {
-        "text": "Ceylon",
+        "text": "Ceylon", 
         "id": "ce"
-    },
+    }, 
     {
-        "text": "Chad",
+        "text": "Chad", 
         "id": "cd"
-    },
+    }, 
     {
-        "text": "Chafarinas, Islas",
+        "text": "Chafarinas, Islas", 
         "id": "sh"
-    },
+    }, 
     {
-        "text": "Chagos Archipelago",
+        "text": "Chagos Archipelago", 
         "id": "bi"
-    },
+    }, 
     {
-        "text": "Channel Islands",
+        "text": "Channel Islands", 
         "id": "uik"
-    },
+    }, 
     {
-        "text": "Chatham Islands",
+        "text": "Chatham Islands", 
         "id": "nz"
-    },
+    }, 
     {
-        "text": "Chesterfield, Iles",
+        "text": "Chesterfield, Iles", 
         "id": "nl"
-    },
+    }, 
     {
-        "text": "Chile",
+        "text": "Chile", 
         "id": "cl"
-    },
+    }, 
     {
-        "text": "China",
+        "text": "China", 
         "id": "cc"
-    },
+    }, 
     {
-        "text": "China (Republic : 1949- )",
+        "text": "China (Republic : 1949- )", 
         "id": "ch"
-    },
+    }, 
     {
-        "text": "Choiseul",
+        "text": "Choiseul", 
         "id": "bp"
-    },
+    }, 
     {
-        "text": "Christmas Atoll",
+        "text": "Christmas Atoll", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Christmas Island (Indian Ocean)",
+        "text": "Christmas Island (Indian Ocean)", 
         "id": "xa"
-    },
+    }, 
     {
-        "text": "Ciskei",
+        "text": "Ciskei", 
         "id": "sa"
-    },
+    }, 
     {
-        "text": "Clipperton Island",
+        "text": "Clipperton Island", 
         "id": "fp"
-    },
+    }, 
     {
-        "text": "Cocos (Keeling) Islands",
+        "text": "Cocos (Keeling) Islands", 
         "id": "xb"
-    },
+    }, 
     {
-        "text": "Cocos Island",
+        "text": "Cocos Island", 
         "id": "cr"
-    },
+    }, 
     {
-        "text": "Collectivity of Saint Martin",
+        "text": "Collectivity of Saint Martin", 
         "id": "st"
-    },
+    }, 
     {
-        "text": "Colombia",
+        "text": "Colombia", 
         "id": "ck"
-    },
+    }, 
     {
-        "text": "Colony of the Virgin Islands",
+        "text": "Colony of the Virgin Islands", 
         "id": "vb"
-    },
+    }, 
     {
-        "text": "Colorado",
+        "text": "Colorado", 
         "id": "cou"
-    },
+    }, 
     {
-        "text": "Colón, Archipiélago de",
+        "text": "Colón, Archipiélago de", 
         "id": "ec"
-    },
+    }, 
     {
-        "text": "Comino Island",
+        "text": "Comino Island", 
         "id": "mm"
-    },
+    }, 
     {
-        "text": "Comores",
+        "text": "Comores", 
         "id": "cq"
-    },
+    }, 
     {
-        "text": "Comoros",
+        "text": "Comoros", 
         "id": "cq"
-    },
+    }, 
     {
-        "text": "Comoros",
+        "text": "Comoros", 
         "id": "ot"
-    },
+    }, 
     {
-        "text": "Congo (Brazzaville)",
+        "text": "Congo (Brazzaville)", 
         "id": "cf"
-    },
+    }, 
     {
-        "text": "Congo (Democratic Republic)",
+        "text": "Congo (Democratic Republic)", 
         "id": "cg"
-    },
+    }, 
     {
-        "text": "Congo (Kinshasa)",
+        "text": "Congo (Kinshasa)", 
         "id": "cg"
-    },
+    }, 
     {
-        "text": "Connecticut ",
+        "text": "Connecticut ", 
         "id": "ctu"
-    },
+    }, 
     {
-        "text": "Cook Islands",
+        "text": "Cook Islands", 
         "id": "cw"
-    },
+    }, 
     {
-        "text": "Coral Sea Islands Territory",
+        "text": "Coral Sea Islands Territory", 
         "id": "xga"
-    },
+    }, 
     {
-        "text": "Corisco Island",
+        "text": "Corisco Island", 
         "id": "eg"
-    },
+    }, 
     {
-        "text": "Corn Islands",
+        "text": "Corn Islands", 
         "id": "nq"
-    },
+    }, 
     {
-        "text": "Corsica",
+        "text": "Corsica", 
         "id": "fr"
-    },
+    }, 
     {
-        "text": "Cosmoledo Islands",
+        "text": "Cosmoledo Islands", 
         "id": "se"
-    },
+    }, 
     {
-        "text": "Costa Rica",
+        "text": "Costa Rica", 
         "id": "cr"
-    },
+    }, 
     {
-        "text": "Crete",
+        "text": "Crete", 
         "id": "gr"
-    },
+    }, 
     {
-        "text": "Croatia",
+        "text": "Croatia", 
         "id": "ci"
-    },
+    }, 
     {
-        "text": "Crozet Island",
+        "text": "Crozet Island", 
         "id": "fs"
-    },
+    }, 
     {
-        "text": "Cuba",
+        "text": "Cuba", 
         "id": "cu"
-    },
+    }, 
     {
-        "text": "Curaçao",
+        "text": "Curaçao", 
         "id": "co"
-    },
+    }, 
     {
-        "text": "Curaçao (Netherlands Antilles)",
+        "text": "Curaçao (Netherlands Antilles)", 
         "id": "co"
-    },
+    }, 
     {
-        "text": "Cyprus",
+        "text": "Cyprus", 
         "id": "cy"
-    },
+    }, 
     {
-        "text": "Czech Republic",
+        "text": "Czech Republic", 
         "id": "xr"
-    },
+    }, 
     {
-        "text": "Czechoslovakia",
+        "text": "Czechoslovakia", 
         "id": "xr"
-    },
+    }, 
     {
-        "text": "Czechoslovakia",
+        "text": "Czechoslovakia", 
         "id": "xr"
-    },
+    }, 
     {
-        "text": "Czechoslovakia",
+        "text": "Czechoslovakia", 
         "id": "xr"
-    },
+    }, 
     {
-        "text": "Czechoslovakia",
+        "text": "Czechoslovakia", 
         "id": "xo"
-    },
+    }, 
     {
-        "text": "Czechoslovakia",
+        "text": "Czechoslovakia", 
         "id": "xo"
-    },
+    }, 
     {
-        "text": "Czechoslovakia",
+        "text": "Czechoslovakia", 
         "id": "xo"
-    },
+    }, 
     {
-        "text": "Côte d'Ivoire",
+        "text": "Côte d'Ivoire", 
         "id": "iv"
-    },
+    }, 
     {
-        "text": "D'Entrecasteaux Islands",
+        "text": "D'Entrecasteaux Islands", 
         "id": "pp"
-    },
+    }, 
     {
-        "text": "Dahomey",
+        "text": "Dahomey", 
         "id": "dm"
-    },
+    }, 
     {
-        "text": "Daitojima",
+        "text": "Daitojima", 
         "id": "ja"
-    },
+    }, 
     {
-        "text": "Daman",
+        "text": "Daman", 
         "id": "ii"
-    },
+    }, 
     {
-        "text": "Danger Atoll",
+        "text": "Danger Atoll", 
         "id": "cw"
-    },
+    }, 
     {
-        "text": "Delaware",
+        "text": "Delaware", 
         "id": "deu"
-    },
+    }, 
     {
-        "text": "Democratic Kampuchea",
+        "text": "Democratic Kampuchea", 
         "id": "cb"
-    },
+    }, 
     {
-        "text": "Democratic People's Republic of Korea",
+        "text": "Democratic People's Republic of Korea", 
         "id": "kn"
-    },
+    }, 
     {
-        "text": "Democratic People's Republic of Vietnam",
+        "text": "Democratic People's Republic of Vietnam", 
         "id": "vm"
-    },
+    }, 
     {
-        "text": "Democratic Republic of the Congo",
+        "text": "Democratic Republic of the Congo", 
         "id": "cg"
-    },
+    }, 
     {
-        "text": "Denmark",
+        "text": "Denmark", 
         "id": "dk"
-    },
+    }, 
     {
-        "text": "Desroches, Ile",
+        "text": "Desroches, Ile", 
         "id": "se"
-    },
+    }, 
     {
-        "text": "Diego Garcia Island",
+        "text": "Diego Garcia Island", 
         "id": "bi"
-    },
+    }, 
     {
-        "text": "District of Columbia",
+        "text": "District of Columbia", 
         "id": "dcu"
-    },
+    }, 
     {
-        "text": "Diu",
+        "text": "Diu", 
         "id": "ii"
-    },
+    }, 
     {
-        "text": "Djibouti",
+        "text": "Djibouti", 
         "id": "ft"
-    },
+    }, 
     {
-        "text": "Dodecanese",
+        "text": "Dodecanese", 
         "id": "gr"
-    },
+    }, 
     {
-        "text": "Dominica",
+        "text": "Dominica", 
         "id": "dq"
-    },
+    }, 
     {
-        "text": "Dominican Republic",
+        "text": "Dominican Republic", 
         "id": "dr"
-    },
+    }, 
     {
-        "text": "Dubai",
+        "text": "Dubai", 
         "id": "ts"
-    },
+    }, 
     {
-        "text": "Dubayy",
+        "text": "Dubayy", 
         "id": "ts"
-    },
+    }, 
     {
-        "text": "Ducie Atoll",
+        "text": "Ducie Atoll", 
         "id": "pc"
-    },
+    }, 
     {
-        "text": "Dutch Caribbean",
+        "text": "Dutch Caribbean", 
         "id": "ca"
-    },
+    }, 
     {
-        "text": "Dutch Guiana",
+        "text": "Dutch Guiana", 
         "id": "sr"
-    },
+    }, 
     {
-        "text": "East Berlin",
+        "text": "East Berlin", 
         "id": "gw"
-    },
+    }, 
     {
-        "text": "East Cameroon",
+        "text": "East Cameroon", 
         "id": "cm"
-    },
+    }, 
     {
-        "text": "East Falkland Island",
+        "text": "East Falkland Island", 
         "id": "fk"
-    },
+    }, 
     {
-        "text": "East Pakistan",
+        "text": "East Pakistan", 
         "id": "bg"
-    },
+    }, 
     {
-        "text": "East Timor",
+        "text": "East Timor", 
         "id": "em"
-    },
+    }, 
     {
-        "text": "Easter Island",
+        "text": "Easter Island", 
         "id": "cl"
-    },
+    }, 
     {
-        "text": "Eastern Samoa",
+        "text": "Eastern Samoa", 
         "id": "as"
-    },
+    }, 
     {
-        "text": "Eauripik Atoll",
+        "text": "Eauripik Atoll", 
         "id": "fm"
-    },
+    }, 
     {
-        "text": "Ebon Atoll",
+        "text": "Ebon Atoll", 
         "id": "xe"
-    },
+    }, 
     {
-        "text": "Ecuador",
+        "text": "Ecuador", 
         "id": "ec"
-    },
+    }, 
     {
-        "text": "Egypt",
+        "text": "Egypt", 
         "id": "ua"
-    },
+    }, 
     {
-        "text": "Eire",
+        "text": "Eire", 
         "id": "ie"
-    },
+    }, 
     {
-        "text": "El Salvador",
+        "text": "El Salvador", 
         "id": "es"
-    },
+    }, 
     {
-        "text": "Ellice Islands",
+        "text": "Ellice Islands", 
         "id": "tv"
-    },
+    }, 
     {
-        "text": "Elobey, Great",
+        "text": "Elobey, Great", 
         "id": "eg"
-    },
+    }, 
     {
-        "text": "Elobey, Small",
+        "text": "Elobey, Small", 
         "id": "eg"
-    },
+    }, 
     {
-        "text": "Enderbury Island",
+        "text": "Enderbury Island", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "England",
+        "text": "England", 
         "id": "enk"
-    },
+    }, 
     {
-        "text": "Eniwetok Atoll",
+        "text": "Eniwetok Atoll", 
         "id": "xe"
-    },
+    }, 
     {
-        "text": "Equatorial Guinea",
+        "text": "Equatorial Guinea", 
         "id": "eg"
-    },
+    }, 
     {
-        "text": "Eritrea",
+        "text": "Eritrea", 
         "id": "ea"
-    },
+    }, 
     {
-        "text": "Estonia",
+        "text": "Estonia", 
         "id": "er"
-    },
+    }, 
     {
-        "text": "Estonia",
+        "text": "Estonia", 
         "id": "er"
-    },
+    }, 
     {
-        "text": "Ethiopia",
+        "text": "Ethiopia", 
         "id": "ea"
-    },
+    }, 
     {
-        "text": "Ethiopia",
+        "text": "Ethiopia", 
         "id": "et"
-    },
+    }, 
     {
-        "text": "Europa, Ile",
+        "text": "Europa, Ile", 
         "id": "re"
-    },
+    }, 
     {
-        "text": "Fais Island",
+        "text": "Fais Island", 
         "id": "fm"
-    },
+    }, 
     {
-        "text": "Fakaofu Atoll",
+        "text": "Fakaofu Atoll", 
         "id": "tl"
-    },
+    }, 
     {
-        "text": "Falkland Islands",
+        "text": "Falkland Islands", 
         "id": "fk"
-    },
+    }, 
     {
-        "text": "Falkland Islands",
+        "text": "Falkland Islands", 
         "id": "xs"
-    },
+    }, 
     {
-        "text": "Falkland Islands",
+        "text": "Falkland Islands", 
         "id": "xs"
-    },
+    }, 
     {
-        "text": "Falkland Islands",
+        "text": "Falkland Islands", 
         "id": "xs"
-    },
+    }, 
     {
-        "text": "Fanning Atoll",
+        "text": "Fanning Atoll", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Farallon de Medinilla Island",
+        "text": "Farallon de Medinilla Island", 
         "id": "nw"
-    },
+    }, 
     {
-        "text": "Farallon de Pajaros Island",
+        "text": "Farallon de Pajaros Island", 
         "id": "nw"
-    },
+    }, 
     {
-        "text": "Faraulep Atoll",
+        "text": "Faraulep Atoll", 
         "id": "fm"
-    },
+    }, 
     {
-        "text": "Faroe Islands",
+        "text": "Faroe Islands", 
         "id": "fa"
-    },
+    }, 
     {
-        "text": "Farquhar Atoll",
+        "text": "Farquhar Atoll", 
         "id": "se"
-    },
+    }, 
     {
-        "text": "Federated States of Micronesia",
+        "text": "Federated States of Micronesia", 
         "id": "fm"
-    },
+    }, 
     {
-        "text": "Federation of South Arabia",
+        "text": "Federation of South Arabia", 
         "id": "ye"
-    },
+    }, 
     {
-        "text": "Fernando Po Island",
+        "text": "Fernando Po Island", 
         "id": "eg"
-    },
+    }, 
     {
-        "text": "Fernando de Noronha",
+        "text": "Fernando de Noronha", 
         "id": "bl"
-    },
+    }, 
     {
-        "text": "Fiji",
+        "text": "Fiji", 
         "id": "fj"
-    },
+    }, 
     {
-        "text": "Finland",
+        "text": "Finland", 
         "id": "fi"
-    },
+    }, 
     {
-        "text": "Flint Island",
+        "text": "Flint Island", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Florida",
+        "text": "Florida", 
         "id": "flu"
-    },
+    }, 
     {
-        "text": "Fogo",
+        "text": "Fogo", 
         "id": "cv"
-    },
+    }, 
     {
-        "text": "Formosa Island",
+        "text": "Formosa Island", 
         "id": "ch"
-    },
+    }, 
     {
-        "text": "France",
+        "text": "France", 
         "id": "fr"
-    },
+    }, 
     {
-        "text": "Franz Josef Land",
+        "text": "Franz Josef Land", 
         "id": "ru"
-    },
+    }, 
     {
-        "text": "François Island",
+        "text": "François Island", 
         "id": "se"
-    },
+    }, 
     {
-        "text": "French Cameroons",
+        "text": "French Cameroons", 
         "id": "cm"
-    },
+    }, 
     {
-        "text": "French Guiana",
+        "text": "French Guiana", 
         "id": "fg"
-    },
+    }, 
     {
-        "text": "French Guinea",
+        "text": "French Guinea", 
         "id": "gv"
-    },
+    }, 
     {
-        "text": "French Morocco",
+        "text": "French Morocco", 
         "id": "mr"
-    },
+    }, 
     {
-        "text": "French Polynesia",
+        "text": "French Polynesia", 
         "id": "fp"
-    },
+    }, 
     {
-        "text": "French Somaliland",
+        "text": "French Somaliland", 
         "id": "ft"
-    },
+    }, 
     {
-        "text": "French Southern and Antarctic Lands",
+        "text": "French Southern and Antarctic Lands", 
         "id": "fs"
-    },
+    }, 
     {
-        "text": "French Sudan",
+        "text": "French Sudan", 
         "id": "ml"
-    },
+    }, 
     {
-        "text": "French Territory of the Afars and Issas",
+        "text": "French Territory of the Afars and Issas", 
         "id": "ft"
-    },
+    }, 
     {
-        "text": "Friendly Islands",
+        "text": "Friendly Islands", 
         "id": "to"
-    },
+    }, 
     {
-        "text": "Fujairah",
+        "text": "Fujairah", 
         "id": "ts"
-    },
+    }, 
     {
-        "text": "Fujayrah",
+        "text": "Fujayrah", 
         "id": "ts"
-    },
+    }, 
     {
-        "text": "Funafuti Atoll",
+        "text": "Funafuti Atoll", 
         "id": "tv"
-    },
+    }, 
     {
-        "text": "Futuna",
+        "text": "Futuna", 
         "id": "wf"
-    },
+    }, 
     {
-        "text": "Færoe Islands",
+        "text": "Færoe Islands", 
         "id": "fa"
-    },
+    }, 
     {
-        "text": "Gabon",
+        "text": "Gabon", 
         "id": "go"
-    },
+    }, 
     {
-        "text": "Gaferut Island",
+        "text": "Gaferut Island", 
         "id": "fm"
-    },
+    }, 
     {
-        "text": "Galapagos Islands",
+        "text": "Galapagos Islands", 
         "id": "ec"
-    },
+    }, 
     {
-        "text": "Gambia",
+        "text": "Gambia", 
         "id": "gm"
-    },
+    }, 
     {
-        "text": "Gambier Islands",
+        "text": "Gambier Islands", 
         "id": "fp"
-    },
+    }, 
     {
-        "text": "Gardner Atoll",
+        "text": "Gardner Atoll", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Gaza Strip",
+        "text": "Gaza Strip", 
         "id": "gz"
-    },
+    }, 
     {
-        "text": "Georgia",
+        "text": "Georgia", 
         "id": "gau"
-    },
+    }, 
     {
-        "text": "Georgia (Republic)",
+        "text": "Georgia (Republic)", 
         "id": "gs"
-    },
+    }, 
     {
-        "text": "Georgian S.S.R.",
+        "text": "Georgian S.S.R.", 
         "id": "gs"
-    },
+    }, 
     {
-        "text": "Georgian S.S.R.",
+        "text": "Georgian S.S.R.", 
         "id": "gs"
-    },
+    }, 
     {
-        "text": "Georgian S.S.R.",
+        "text": "Georgian S.S.R.", 
         "id": "gs"
-    },
+    }, 
     {
-        "text": "German Cameroons",
+        "text": "German Cameroons", 
         "id": "cm"
-    },
+    }, 
     {
-        "text": "Germany",
+        "text": "Germany", 
         "id": "gw"
-    },
+    }, 
     {
-        "text": "Germany (East)",
+        "text": "Germany (East)", 
         "id": "gw"
-    },
+    }, 
     {
-        "text": "Germany (East)",
+        "text": "Germany (East)", 
         "id": "gw"
-    },
+    }, 
     {
-        "text": "Germany (East)",
+        "text": "Germany (East)", 
         "id": "gw"
-    },
+    }, 
     {
-        "text": "Germany (East)",
+        "text": "Germany (East)", 
         "id": "gw"
-    },
+    }, 
     {
-        "text": "Germany (East)",
+        "text": "Germany (East)", 
         "id": "gw"
-    },
+    }, 
     {
-        "text": "Germany (West)",
+        "text": "Germany (West)", 
         "id": "gw"
-    },
+    }, 
     {
-        "text": "Germany, Democratic Republic of",
+        "text": "Germany, Democratic Republic of", 
         "id": "gw"
-    },
+    }, 
     {
-        "text": "Germany, Federal Republic of",
+        "text": "Germany, Federal Republic of", 
         "id": "gw"
-    },
+    }, 
     {
-        "text": "Ghana",
+        "text": "Ghana", 
         "id": "gh"
-    },
+    }, 
     {
-        "text": "Gibraltar",
+        "text": "Gibraltar", 
         "id": "gi"
-    },
+    }, 
     {
-        "text": "Gilbert Islands",
+        "text": "Gilbert Islands", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Gilbert and Ellice Islands",
+        "text": "Gilbert and Ellice Islands", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Gilbert and Ellice Islands",
+        "text": "Gilbert and Ellice Islands", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Gilbert and Ellice Islands",
+        "text": "Gilbert and Ellice Islands", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Gilbert and Ellice Islands",
+        "text": "Gilbert and Ellice Islands", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Gilbert and Ellice Islands",
+        "text": "Gilbert and Ellice Islands", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Gilbert and Ellice Islands",
+        "text": "Gilbert and Ellice Islands", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Gilbert and Ellice Islands",
+        "text": "Gilbert and Ellice Islands", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Gilbert and Ellice Islands",
+        "text": "Gilbert and Ellice Islands", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Gilbert and Ellice Islands",
+        "text": "Gilbert and Ellice Islands", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Gilbert and Ellice Islands",
+        "text": "Gilbert and Ellice Islands", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Gilbert and Ellice Islands",
+        "text": "Gilbert and Ellice Islands", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Gilbert and Ellice Islands",
+        "text": "Gilbert and Ellice Islands", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Gilbert and Ellice Islands",
+        "text": "Gilbert and Ellice Islands", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Gilbert and Ellice Islands",
+        "text": "Gilbert and Ellice Islands", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Gilbert and Ellice Islands",
+        "text": "Gilbert and Ellice Islands", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Gilbert and Ellice Islands",
+        "text": "Gilbert and Ellice Islands", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Gilbert and Ellice Islands",
+        "text": "Gilbert and Ellice Islands", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Gilbert and Ellice Islands",
+        "text": "Gilbert and Ellice Islands", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Gilbert and Ellice Islands",
+        "text": "Gilbert and Ellice Islands", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Gilbert and Ellice Islands",
+        "text": "Gilbert and Ellice Islands", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Gilbert and Ellice Islands",
+        "text": "Gilbert and Ellice Islands", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Gilbert and Ellice Islands",
+        "text": "Gilbert and Ellice Islands", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Gilbert and Ellice Islands",
+        "text": "Gilbert and Ellice Islands", 
         "id": "tv"
-    },
+    }, 
     {
-        "text": "Gilbert and Ellice Islands",
+        "text": "Gilbert and Ellice Islands", 
         "id": "tv"
-    },
+    }, 
     {
-        "text": "Gilbert and Ellice Islands",
+        "text": "Gilbert and Ellice Islands", 
         "id": "tv"
-    },
+    }, 
     {
-        "text": "Glorieuses, Iles",
+        "text": "Glorieuses, Iles", 
         "id": "re"
-    },
+    }, 
     {
-        "text": "Goa",
+        "text": "Goa", 
         "id": "ii"
-    },
+    }, 
     {
-        "text": "Gold Coast",
+        "text": "Gold Coast", 
         "id": "gh"
-    },
+    }, 
     {
-        "text": "Gough Island",
+        "text": "Gough Island", 
         "id": "xj"
-    },
+    }, 
     {
-        "text": "Gozo Island",
+        "text": "Gozo Island", 
         "id": "mm"
-    },
+    }, 
     {
-        "text": "Grand Cayman Island",
+        "text": "Grand Cayman Island", 
         "id": "cj"
-    },
+    }, 
     {
-        "text": "Grande Comore Island",
+        "text": "Grande Comore Island", 
         "id": "cq"
-    },
+    }, 
     {
-        "text": "Grande-Terre",
+        "text": "Grande-Terre", 
         "id": "gp"
-    },
+    }, 
     {
-        "text": "Great Britain",
+        "text": "Great Britain", 
         "id": "xxk"
-    },
+    }, 
     {
-        "text": "Greece",
+        "text": "Greece", 
         "id": "gr"
-    },
+    }, 
     {
-        "text": "Greenland",
+        "text": "Greenland", 
         "id": "gl"
-    },
+    }, 
     {
-        "text": "Grenada",
+        "text": "Grenada", 
         "id": "gd"
-    },
+    }, 
     {
-        "text": "Grenadine Islands, Northern",
+        "text": "Grenadine Islands, Northern", 
         "id": "xm"
-    },
+    }, 
     {
-        "text": "Grenadine Islands, Southern",
+        "text": "Grenadine Islands, Southern", 
         "id": "gd"
-    },
+    }, 
     {
-        "text": "Guadalcanal",
+        "text": "Guadalcanal", 
         "id": "bp"
-    },
+    }, 
     {
-        "text": "Guadeloupe",
+        "text": "Guadeloupe", 
         "id": "gp"
-    },
+    }, 
     {
-        "text": "Guam",
+        "text": "Guam", 
         "id": "gu"
-    },
+    }, 
     {
-        "text": "Guatemala",
+        "text": "Guatemala", 
         "id": "gt"
-    },
+    }, 
     {
-        "text": "Guernsey Island",
+        "text": "Guernsey Island", 
         "id": "uik"
-    },
+    }, 
     {
-        "text": "Guguan Island",
+        "text": "Guguan Island", 
         "id": "nw"
-    },
+    }, 
     {
-        "text": "Guiana, British",
+        "text": "Guiana, British", 
         "id": "gy"
-    },
+    }, 
     {
-        "text": "Guiana, Dutch",
+        "text": "Guiana, Dutch", 
         "id": "sr"
-    },
+    }, 
     {
-        "text": "Guiana, French",
+        "text": "Guiana, French", 
         "id": "fg"
-    },
+    }, 
     {
-        "text": "Guinea",
+        "text": "Guinea", 
         "id": "gv"
-    },
+    }, 
     {
-        "text": "Guinea, Portuguese",
+        "text": "Guinea, Portuguese", 
         "id": "pg"
-    },
+    }, 
     {
-        "text": "Guinea-Bissau",
+        "text": "Guinea-Bissau", 
         "id": "pg"
-    },
+    }, 
     {
-        "text": "Guyana",
+        "text": "Guyana", 
         "id": "gy"
-    },
+    }, 
     {
-        "text": "Gwadar",
+        "text": "Gwadar", 
         "id": "pk"
-    },
+    }, 
     {
-        "text": "Haapai",
+        "text": "Haapai", 
         "id": "to"
-    },
+    }, 
     {
-        "text": "Habomai Islands",
+        "text": "Habomai Islands", 
         "id": "ru"
-    },
+    }, 
     {
-        "text": "Hainan Island",
+        "text": "Hainan Island", 
         "id": "cc"
-    },
+    }, 
     {
-        "text": "Haiti",
+        "text": "Haiti", 
         "id": "ht"
-    },
+    }, 
     {
-        "text": "Hall Islands",
+        "text": "Hall Islands", 
         "id": "fm"
-    },
+    }, 
     {
-        "text": "Hawaii",
+        "text": "Hawaii", 
         "id": "hiu"
-    },
+    }, 
     {
-        "text": "Heard and McDonald Islands",
+        "text": "Heard and McDonald Islands", 
         "id": "hm"
-    },
+    }, 
     {
-        "text": "Helen Island",
+        "text": "Helen Island", 
         "id": "pw"
-    },
+    }, 
     {
-        "text": "Henderson Island",
+        "text": "Henderson Island", 
         "id": "pc"
-    },
+    }, 
     {
-        "text": "Hercegovina",
+        "text": "Hercegovina", 
         "id": "bn"
-    },
+    }, 
     {
-        "text": "Herm Island",
+        "text": "Herm Island", 
         "id": "uik"
-    },
+    }, 
     {
-        "text": "Herzegovina",
+        "text": "Herzegovina", 
         "id": "bn"
-    },
+    }, 
     {
-        "text": "Holland",
+        "text": "Holland", 
         "id": "ne"
-    },
+    }, 
     {
-        "text": "Holy See",
+        "text": "Holy See", 
         "id": "vc"
-    },
+    }, 
     {
-        "text": "Honduras",
+        "text": "Honduras", 
         "id": "ho"
-    },
+    }, 
     {
-        "text": "Hong Kong",
+        "text": "Hong Kong", 
         "id": "cc"
-    },
+    }, 
     {
-        "text": "Hong Kong",
+        "text": "Hong Kong", 
         "id": "cc"
-    },
+    }, 
     {
-        "text": "Horne, Iles de",
+        "text": "Horne, Iles de", 
         "id": "wf"
-    },
+    }, 
     {
-        "text": "Howland Island",
+        "text": "Howland Island", 
         "id": "up"
-    },
+    }, 
     {
-        "text": "Hull Atoll",
+        "text": "Hull Atoll", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Hungary",
+        "text": "Hungary", 
         "id": "hu"
-    },
+    }, 
     {
-        "text": "Huon, Ile",
+        "text": "Huon, Ile", 
         "id": "nl"
-    },
+    }, 
     {
-        "text": "Iceland",
+        "text": "Iceland", 
         "id": "ic"
-    },
+    }, 
     {
-        "text": "Idaho",
+        "text": "Idaho", 
         "id": "idu"
-    },
+    }, 
     {
-        "text": "Ifalik Atoll",
+        "text": "Ifalik Atoll", 
         "id": "fm"
-    },
+    }, 
     {
-        "text": "Ifni",
+        "text": "Ifni", 
         "id": "mr"
-    },
+    }, 
     {
-        "text": "Ile Desroches",
+        "text": "Ile Desroches", 
         "id": "se"
-    },
+    }, 
     {
-        "text": "Ile Europa",
+        "text": "Ile Europa", 
         "id": "re"
-    },
+    }, 
     {
-        "text": "Ile Huon",
+        "text": "Ile Huon", 
         "id": "nl"
-    },
+    }, 
     {
-        "text": "Ile Juan de Nova",
+        "text": "Ile Juan de Nova", 
         "id": "re"
-    },
+    }, 
     {
-        "text": "Ile Saint-Barthélemy",
+        "text": "Ile Saint-Barthélemy", 
         "id": "sc"
-    },
+    }, 
     {
-        "text": "Ile Tromelin",
+        "text": "Ile Tromelin", 
         "id": "re"
-    },
+    }, 
     {
-        "text": "Ile Uvea (New Caledonia)",
+        "text": "Ile Uvea (New Caledonia)", 
         "id": "nl"
-    },
+    }, 
     {
-        "text": "Ile Uvea (Wallis and Futuna)",
+        "text": "Ile Uvea (Wallis and Futuna)", 
         "id": "wf"
-    },
+    }, 
     {
-        "text": "Ile Walpole",
+        "text": "Ile Walpole", 
         "id": "nl"
-    },
+    }, 
     {
-        "text": "Ile des Pins",
+        "text": "Ile des Pins", 
         "id": "nl"
-    },
+    }, 
     {
-        "text": "Iles Australes",
+        "text": "Iles Australes", 
         "id": "fp"
-    },
+    }, 
     {
-        "text": "Iles Belep",
+        "text": "Iles Belep", 
         "id": "nl"
-    },
+    }, 
     {
-        "text": "Iles Chesterfield",
+        "text": "Iles Chesterfield", 
         "id": "nl"
-    },
+    }, 
     {
-        "text": "Iles Glorieuses",
+        "text": "Iles Glorieuses", 
         "id": "re"
-    },
+    }, 
     {
-        "text": "Iles Sous le Vent",
+        "text": "Iles Sous le Vent", 
         "id": "fp"
-    },
+    }, 
     {
-        "text": "Iles de Horne",
+        "text": "Iles de Horne", 
         "id": "wf"
-    },
+    }, 
     {
-        "text": "Iles de la Petite Terre",
+        "text": "Iles de la Petite Terre", 
         "id": "gp"
-    },
+    }, 
     {
-        "text": "Iles des Saintes",
+        "text": "Iles des Saintes", 
         "id": "gp"
-    },
+    }, 
     {
-        "text": "Iles du Vent",
+        "text": "Iles du Vent", 
         "id": "fp"
-    },
+    }, 
     {
-        "text": "Ilha da Trindade",
+        "text": "Ilha da Trindade", 
         "id": "bl"
-    },
+    }, 
     {
-        "text": "Ilha de Atauro",
+        "text": "Ilha de Atauro", 
         "id": "em"
-    },
+    }, 
     {
-        "text": "Ilhas Martim Vaz",
+        "text": "Ilhas Martim Vaz", 
         "id": "bl"
-    },
+    }, 
     {
-        "text": "Ilheu de Jaco",
+        "text": "Ilheu de Jaco", 
         "id": "em"
-    },
+    }, 
     {
-        "text": "Illinois",
+        "text": "Illinois", 
         "id": "ilu"
-    },
+    }, 
     {
-        "text": "Inaccessible Island",
+        "text": "Inaccessible Island", 
         "id": "xj"
-    },
+    }, 
     {
-        "text": "India",
+        "text": "India", 
         "id": "ii"
-    },
+    }, 
     {
-        "text": "Indiana",
+        "text": "Indiana", 
         "id": "inu"
-    },
+    }, 
     {
-        "text": "Indonesia",
+        "text": "Indonesia", 
         "id": "io"
-    },
+    }, 
     {
-        "text": "Indonesia",
+        "text": "Indonesia", 
         "id": "io"
-    },
+    }, 
     {
-        "text": "Inner Mongolia",
+        "text": "Inner Mongolia", 
         "id": "cc"
-    },
+    }, 
     {
-        "text": "Ionian Islands",
+        "text": "Ionian Islands", 
         "id": "gr"
-    },
+    }, 
     {
-        "text": "Iowa",
+        "text": "Iowa", 
         "id": "iau"
-    },
+    }, 
     {
-        "text": "Iran",
+        "text": "Iran", 
         "id": "ir"
-    },
+    }, 
     {
-        "text": "Iraq",
+        "text": "Iraq", 
         "id": "iq"
-    },
+    }, 
     {
-        "text": "Iraq-Saudi Arabia Neutral Zone",
+        "text": "Iraq-Saudi Arabia Neutral Zone", 
         "id": "iy"
-    },
+    }, 
     {
-        "text": "Ireland",
+        "text": "Ireland", 
         "id": "ie"
-    },
+    }, 
     {
-        "text": "Ireland, Northern",
+        "text": "Ireland, Northern", 
         "id": "nik"
-    },
+    }, 
     {
-        "text": "Irian Barat",
+        "text": "Irian Barat", 
         "id": "io"
-    },
+    }, 
     {
-        "text": "Isla Sala y Gómez",
+        "text": "Isla Sala y Gómez", 
         "id": "cl"
-    },
+    }, 
     {
-        "text": "Isla de Malpelo",
+        "text": "Isla de Malpelo", 
         "id": "ck"
-    },
+    }, 
     {
-        "text": "Isla de Pasqua",
+        "text": "Isla de Pasqua", 
         "id": "cl"
-    },
+    }, 
     {
-        "text": "Islas Chafarinas",
+        "text": "Islas Chafarinas", 
         "id": "sh"
-    },
+    }, 
     {
-        "text": "Islas Juan Fernández",
+        "text": "Islas Juan Fernández", 
         "id": "cl"
-    },
+    }, 
     {
-        "text": "Islas Malvinas",
+        "text": "Islas Malvinas", 
         "id": "fk"
-    },
+    }, 
     {
-        "text": "Islas de Revillagigedo",
+        "text": "Islas de Revillagigedo", 
         "id": "mx"
-    },
+    }, 
     {
-        "text": "Isle of Man",
+        "text": "Isle of Man", 
         "id": "uik"
-    },
+    }, 
     {
-        "text": "Isle of Pines (Caribbean)",
+        "text": "Isle of Pines (Caribbean)", 
         "id": "cu"
-    },
+    }, 
     {
-        "text": "Isle of Pines (Pacific Ocean)",
+        "text": "Isle of Pines (Pacific Ocean)", 
         "id": "nl"
-    },
+    }, 
     {
-        "text": "Israel",
+        "text": "Israel", 
         "id": "is"
-    },
+    }, 
     {
-        "text": "Israel-Jordan Demilitarized Zones",
+        "text": "Israel-Jordan Demilitarized Zones", 
         "id": "is"
-    },
+    }, 
     {
-        "text": "Israel-Jordan Demilitarized Zones",
+        "text": "Israel-Jordan Demilitarized Zones", 
         "id": "is"
-    },
+    }, 
     {
-        "text": "Israel-Syria Demilitarized Zones",
+        "text": "Israel-Syria Demilitarized Zones", 
         "id": "is"
-    },
+    }, 
     {
-        "text": "Israel-Syria Demilitarized Zones",
+        "text": "Israel-Syria Demilitarized Zones", 
         "id": "is"
-    },
+    }, 
     {
-        "text": "Issas",
+        "text": "Issas", 
         "id": "ft"
-    },
+    }, 
     {
-        "text": "Italy",
+        "text": "Italy", 
         "id": "it"
-    },
+    }, 
     {
-        "text": "Ivory Coast",
+        "text": "Ivory Coast", 
         "id": "iv"
-    },
+    }, 
     {
-        "text": "Jaco, Ilheu de",
+        "text": "Jaco, Ilheu de", 
         "id": "em"
-    },
+    }, 
     {
-        "text": "Jaluit Atoll",
+        "text": "Jaluit Atoll", 
         "id": "xe"
-    },
+    }, 
     {
-        "text": "Jamaica",
+        "text": "Jamaica", 
         "id": "jm"
-    },
+    }, 
     {
-        "text": "Jan Mayen",
+        "text": "Jan Mayen", 
         "id": "no"
-    },
+    }, 
     {
-        "text": "Jan Mayen",
+        "text": "Jan Mayen", 
         "id": "no"
-    },
+    }, 
     {
-        "text": "Japan",
+        "text": "Japan", 
         "id": "ja"
-    },
+    }, 
     {
-        "text": "Jarvis Island",
+        "text": "Jarvis Island", 
         "id": "up"
-    },
+    }, 
     {
-        "text": "Jersey (Island)",
+        "text": "Jersey (Island)", 
         "id": "uik"
-    },
+    }, 
     {
-        "text": "Jethou",
+        "text": "Jethou", 
         "id": "uik"
-    },
+    }, 
     {
-        "text": "Johnston Atoll",
+        "text": "Johnston Atoll", 
         "id": "ji"
-    },
+    }, 
     {
-        "text": "Jordan",
+        "text": "Jordan", 
         "id": "jo"
-    },
+    }, 
     {
-        "text": "Jordan (Territory under Israeli occupation, 1967- )",
+        "text": "Jordan (Territory under Israeli occupation, 1967- )", 
         "id": "wj"
-    },
+    }, 
     {
-        "text": "Jost Van Dyke",
+        "text": "Jost Van Dyke", 
         "id": "vb"
-    },
+    }, 
     {
-        "text": "Juan Fernández, Islas",
+        "text": "Juan Fernández, Islas", 
         "id": "cl"
-    },
+    }, 
     {
-        "text": "Juan de Nova, Ile",
+        "text": "Juan de Nova, Ile", 
         "id": "re"
-    },
+    }, 
     {
-        "text": "Kalba",
+        "text": "Kalba", 
         "id": "ts"
-    },
+    }, 
     {
-        "text": "Kamaran",
+        "text": "Kamaran", 
         "id": "ye"
-    },
+    }, 
     {
-        "text": "Kampuchea",
+        "text": "Kampuchea", 
         "id": "cb"
-    },
+    }, 
     {
-        "text": "Kansas",
+        "text": "Kansas", 
         "id": "ksu"
-    },
+    }, 
     {
-        "text": "Kapingamarangi Atoll",
+        "text": "Kapingamarangi Atoll", 
         "id": "fm"
-    },
+    }, 
     {
-        "text": "Kazakh S.S.R.",
+        "text": "Kazakh S.S.R.", 
         "id": "kz"
-    },
+    }, 
     {
-        "text": "Kazakh S.S.R.",
+        "text": "Kazakh S.S.R.", 
         "id": "kz"
-    },
+    }, 
     {
-        "text": "Kazakh S.S.R.",
+        "text": "Kazakh S.S.R.", 
         "id": "kz"
-    },
+    }, 
     {
-        "text": "Kazakhstan",
+        "text": "Kazakhstan", 
         "id": "kz"
-    },
+    }, 
     {
-        "text": "Keeling Islands",
+        "text": "Keeling Islands", 
         "id": "xb"
-    },
+    }, 
     {
-        "text": "Kentucky",
+        "text": "Kentucky", 
         "id": "kyu"
-    },
+    }, 
     {
-        "text": "Kenya",
+        "text": "Kenya", 
         "id": "ke"
-    },
+    }, 
     {
-        "text": "Kerguelen Island",
+        "text": "Kerguelen Island", 
         "id": "fs"
-    },
+    }, 
     {
-        "text": "Kermadec Islands",
+        "text": "Kermadec Islands", 
         "id": "nz"
-    },
+    }, 
     {
-        "text": "Khmer Republic",
+        "text": "Khmer Republic", 
         "id": "cb"
-    },
+    }, 
     {
-        "text": "Kili Island",
+        "text": "Kili Island", 
         "id": "xe"
-    },
+    }, 
     {
-        "text": "Kingman Reef",
+        "text": "Kingman Reef", 
         "id": "up"
-    },
+    }, 
     {
-        "text": "Kirghiz S.S.R.",
+        "text": "Kirghiz S.S.R.", 
         "id": "kg"
-    },
+    }, 
     {
-        "text": "Kirghiz S.S.R.",
+        "text": "Kirghiz S.S.R.", 
         "id": "kg"
-    },
+    }, 
     {
-        "text": "Kirghiz S.S.R.",
+        "text": "Kirghiz S.S.R.", 
         "id": "kg"
-    },
+    }, 
     {
-        "text": "Kirghiz S.S.R.",
+        "text": "Kirghiz S.S.R.", 
         "id": "kg"
-    },
+    }, 
     {
-        "text": "Kirghizia",
+        "text": "Kirghizia", 
         "id": "kg"
-    },
+    }, 
     {
-        "text": "Kiribati",
+        "text": "Kiribati", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Kiritimati",
+        "text": "Kiritimati", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Korea (North)",
+        "text": "Korea (North)", 
         "id": "kn"
-    },
+    }, 
     {
-        "text": "Korea (South)",
+        "text": "Korea (South)", 
         "id": "ko"
-    },
+    }, 
     {
-        "text": "Korea, Republic of",
+        "text": "Korea, Republic of", 
         "id": "ko"
-    },
+    }, 
     {
-        "text": "Kosovo",
+        "text": "Kosovo", 
         "id": "kv"
-    },
+    }, 
     {
-        "text": "Kosrae (Micronesia)",
+        "text": "Kosrae (Micronesia)", 
         "id": "fm"
-    },
+    }, 
     {
-        "text": "Kowloon",
+        "text": "Kowloon", 
         "id": "cc"
-    },
+    }, 
     {
-        "text": "Kuria Muria Islands",
+        "text": "Kuria Muria Islands", 
         "id": "mk"
-    },
+    }, 
     {
-        "text": "Kuril Islands (Southern)",
+        "text": "Kuril Islands (Southern)", 
         "id": "ru"
-    },
+    }, 
     {
-        "text": "Kusaie (Micronesia)",
+        "text": "Kusaie (Micronesia)", 
         "id": "fm"
-    },
+    }, 
     {
-        "text": "Kuwait",
+        "text": "Kuwait", 
         "id": "ku"
-    },
+    }, 
     {
-        "text": "Kwajalein Atoll",
+        "text": "Kwajalein Atoll", 
         "id": "xe"
-    },
+    }, 
     {
-        "text": "Kyrgyzstan",
+        "text": "Kyrgyzstan", 
         "id": "kg"
-    },
+    }, 
     {
-        "text": "La Désirade",
+        "text": "La Désirade", 
         "id": "gp"
-    },
+    }, 
     {
-        "text": "Labrador",
+        "text": "Labrador", 
         "id": "nfc"
-    },
+    }, 
     {
-        "text": "Laccadive Island",
+        "text": "Laccadive Island", 
         "id": "ii"
-    },
+    }, 
     {
-        "text": "Laos",
+        "text": "Laos", 
         "id": "ls"
-    },
+    }, 
     {
-        "text": "Latvia",
+        "text": "Latvia", 
         "id": "lv"
-    },
+    }, 
     {
-        "text": "Latvia",
+        "text": "Latvia", 
         "id": "lv"
-    },
+    }, 
     {
-        "text": "Lebanon",
+        "text": "Lebanon", 
         "id": "le"
-    },
+    }, 
     {
-        "text": "Lebowa",
+        "text": "Lebowa", 
         "id": "sa"
-    },
+    }, 
     {
-        "text": "Lesotho",
+        "text": "Lesotho", 
         "id": "lo"
-    },
+    }, 
     {
-        "text": "Liberia",
+        "text": "Liberia", 
         "id": "lb"
-    },
+    }, 
     {
-        "text": "Libya",
+        "text": "Libya", 
         "id": "ly"
-    },
+    }, 
     {
-        "text": "Liechtenstein",
+        "text": "Liechtenstein", 
         "id": "lh"
-    },
+    }, 
     {
-        "text": "Lihou",
+        "text": "Lihou", 
         "id": "uik"
-    },
+    }, 
     {
-        "text": "Line Islands (Southern)",
+        "text": "Line Islands (Southern)", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Lithuania",
+        "text": "Lithuania", 
         "id": "li"
-    },
+    }, 
     {
-        "text": "Lithuania",
+        "text": "Lithuania", 
         "id": "li"
-    },
+    }, 
     {
-        "text": "Little Cayman Island",
+        "text": "Little Cayman Island", 
         "id": "cj"
-    },
+    }, 
     {
-        "text": "Louisiada Archipelago",
+        "text": "Louisiada Archipelago", 
         "id": "pp"
-    },
+    }, 
     {
-        "text": "Louisiana",
+        "text": "Louisiana", 
         "id": "lau"
-    },
+    }, 
     {
-        "text": "Loyalty Islands",
+        "text": "Loyalty Islands", 
         "id": "nl"
-    },
+    }, 
     {
-        "text": "Lulunga",
+        "text": "Lulunga", 
         "id": "to"
-    },
+    }, 
     {
-        "text": "Luxembourg",
+        "text": "Luxembourg", 
         "id": "lu"
-    },
+    }, 
     {
-        "text": "Macao",
+        "text": "Macao", 
         "id": "cc"
-    },
+    }, 
     {
-        "text": "Macao",
+        "text": "Macao", 
         "id": "cc"
-    },
+    }, 
     {
-        "text": "Macao",
+        "text": "Macao", 
         "id": "cc"
-    },
+    }, 
     {
-        "text": "Macau",
+        "text": "Macau", 
         "id": "cc"
-    },
+    }, 
     {
-        "text": "Macedonia",
+        "text": "Macedonia", 
         "id": "xn"
-    },
+    }, 
     {
-        "text": "Machangana",
+        "text": "Machangana", 
         "id": "sa"
-    },
+    }, 
     {
-        "text": "Macias Nguema Biyogo",
+        "text": "Macias Nguema Biyogo", 
         "id": "eg"
-    },
+    }, 
     {
-        "text": "Macquarie Island",
+        "text": "Macquarie Island", 
         "id": "at"
-    },
+    }, 
     {
-        "text": "Madagascar",
+        "text": "Madagascar", 
         "id": "mg"
-    },
+    }, 
     {
-        "text": "Madeira Island",
+        "text": "Madeira Island", 
         "id": "po"
-    },
+    }, 
     {
-        "text": "Maine",
+        "text": "Maine", 
         "id": "meu"
-    },
+    }, 
     {
-        "text": "Maio",
+        "text": "Maio", 
         "id": "cv"
-    },
+    }, 
     {
-        "text": "Majuro Atoll",
+        "text": "Majuro Atoll", 
         "id": "xe"
-    },
+    }, 
     {
-        "text": "Malagasy Republic",
+        "text": "Malagasy Republic", 
         "id": "mg"
-    },
+    }, 
     {
-        "text": "Malaita",
+        "text": "Malaita", 
         "id": "bp"
-    },
+    }, 
     {
-        "text": "Malawi",
+        "text": "Malawi", 
         "id": "mw"
-    },
+    }, 
     {
-        "text": "Malaya",
+        "text": "Malaya", 
         "id": "my"
-    },
+    }, 
     {
-        "text": "Malaysia",
+        "text": "Malaysia", 
         "id": "my"
-    },
+    }, 
     {
-        "text": "Malden Island",
+        "text": "Malden Island", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Maldive Islands",
+        "text": "Maldive Islands", 
         "id": "xc"
-    },
+    }, 
     {
-        "text": "Maldives",
+        "text": "Maldives", 
         "id": "xc"
-    },
+    }, 
     {
-        "text": "Mali",
+        "text": "Mali", 
         "id": "ml"
-    },
+    }, 
     {
-        "text": "Maloelap Atoll",
+        "text": "Maloelap Atoll", 
         "id": "xe"
-    },
+    }, 
     {
-        "text": "Malpelo, Isla de",
+        "text": "Malpelo, Isla de", 
         "id": "ck"
-    },
+    }, 
     {
-        "text": "Malta",
+        "text": "Malta", 
         "id": "mm"
-    },
+    }, 
     {
-        "text": "Malvinas, Islas",
+        "text": "Malvinas, Islas", 
         "id": "fk"
-    },
+    }, 
     {
-        "text": "Manchuria",
+        "text": "Manchuria", 
         "id": "cc"
-    },
+    }, 
     {
-        "text": "Manihiki Atoll",
+        "text": "Manihiki Atoll", 
         "id": "cw"
-    },
+    }, 
     {
-        "text": "Manitoba",
+        "text": "Manitoba", 
         "id": "mbc"
-    },
+    }, 
     {
-        "text": "Manra Atoll",
+        "text": "Manra Atoll", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Marcus Island",
+        "text": "Marcus Island", 
         "id": "ja"
-    },
+    }, 
     {
-        "text": "Mariana Islands",
+        "text": "Mariana Islands", 
         "id": "nw"
-    },
+    }, 
     {
-        "text": "Marie-Galante",
+        "text": "Marie-Galante", 
         "id": "gp"
-    },
+    }, 
     {
-        "text": "Marion Island",
+        "text": "Marion Island", 
         "id": "sa"
-    },
+    }, 
     {
-        "text": "Marquesas Islands",
+        "text": "Marquesas Islands", 
         "id": "fp"
-    },
+    }, 
     {
-        "text": "Marshall Islands",
+        "text": "Marshall Islands", 
         "id": "xe"
-    },
+    }, 
     {
-        "text": "Martim Vaz, Ilhas",
+        "text": "Martim Vaz, Ilhas", 
         "id": "bl"
-    },
+    }, 
     {
-        "text": "Martinique",
+        "text": "Martinique", 
         "id": "mq"
-    },
+    }, 
     {
-        "text": "Maryland",
+        "text": "Maryland", 
         "id": "mdu"
-    },
+    }, 
     {
-        "text": "Massachusetts",
+        "text": "Massachusetts", 
         "id": "mau"
-    },
+    }, 
     {
-        "text": "Maug Islands",
+        "text": "Maug Islands", 
         "id": "nw"
-    },
+    }, 
     {
-        "text": "Mauritania",
+        "text": "Mauritania", 
         "id": "mu"
-    },
+    }, 
     {
-        "text": "Mauritius",
+        "text": "Mauritius", 
         "id": "mf"
-    },
+    }, 
     {
-        "text": "Mayotte",
+        "text": "Mayotte", 
         "id": "ot"
-    },
+    }, 
     {
-        "text": "McKean Atoll",
+        "text": "McKean Atoll", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Melilla",
+        "text": "Melilla", 
         "id": "sh"
-    },
+    }, 
     {
-        "text": "Merir Island",
+        "text": "Merir Island", 
         "id": "pw"
-    },
+    }, 
     {
-        "text": "Mexico",
+        "text": "Mexico", 
         "id": "mx"
-    },
+    }, 
     {
-        "text": "Michigan",
+        "text": "Michigan", 
         "id": "miu"
-    },
+    }, 
     {
-        "text": "Micronesia (Federated States)",
+        "text": "Micronesia (Federated States)", 
         "id": "fm"
-    },
+    }, 
     {
-        "text": "Middle Congo",
+        "text": "Middle Congo", 
         "id": "cf"
-    },
+    }, 
     {
-        "text": "Midway Islands",
+        "text": "Midway Islands", 
         "id": "xf"
-    },
+    }, 
     {
-        "text": "Mili Atoll",
+        "text": "Mili Atoll", 
         "id": "xe"
-    },
+    }, 
     {
-        "text": "Minicoy Island",
+        "text": "Minicoy Island", 
         "id": "ii"
-    },
+    }, 
     {
-        "text": "Minnesota",
+        "text": "Minnesota", 
         "id": "mnu"
-    },
+    }, 
     {
-        "text": "Miquelon",
+        "text": "Miquelon", 
         "id": "xl"
-    },
+    }, 
     {
-        "text": "Mississippi",
+        "text": "Mississippi", 
         "id": "msu"
-    },
+    }, 
     {
-        "text": "Missouri",
+        "text": "Missouri", 
         "id": "mou"
-    },
+    }, 
     {
-        "text": "Moheli Island",
+        "text": "Moheli Island", 
         "id": "cq"
-    },
+    }, 
     {
-        "text": "Moldavian S.S.R.",
+        "text": "Moldavian S.S.R.", 
         "id": "mv"
-    },
+    }, 
     {
-        "text": "Moldavian S.S.R.",
+        "text": "Moldavian S.S.R.", 
         "id": "mv"
-    },
+    }, 
     {
-        "text": "Moldavian S.S.R.",
+        "text": "Moldavian S.S.R.", 
         "id": "mv"
-    },
+    }, 
     {
-        "text": "Moldova",
+        "text": "Moldova", 
         "id": "mv"
-    },
+    }, 
     {
-        "text": "Monaco",
+        "text": "Monaco", 
         "id": "mc"
-    },
+    }, 
     {
-        "text": "Mongolia",
+        "text": "Mongolia", 
         "id": "mp"
-    },
+    }, 
     {
-        "text": "Mongolian People's Republic",
+        "text": "Mongolian People's Republic", 
         "id": "mp"
-    },
+    }, 
     {
-        "text": "Montana",
+        "text": "Montana", 
         "id": "mtu"
-    },
+    }, 
     {
-        "text": "Montenegro",
+        "text": "Montenegro", 
         "id": "mo"
-    },
+    }, 
     {
-        "text": "Montserrat",
+        "text": "Montserrat", 
         "id": "mj"
-    },
+    }, 
     {
-        "text": "Morant Cays",
+        "text": "Morant Cays", 
         "id": "jm"
-    },
+    }, 
     {
-        "text": "Morocco",
+        "text": "Morocco", 
         "id": "mr"
-    },
+    }, 
     {
-        "text": "Mortlock Islands",
+        "text": "Mortlock Islands", 
         "id": "fm"
-    },
+    }, 
     {
-        "text": "Mount Athos",
+        "text": "Mount Athos", 
         "id": "gr"
-    },
+    }, 
     {
-        "text": "Mozambique",
+        "text": "Mozambique", 
         "id": "mz"
-    },
+    }, 
     {
-        "text": "Muscat and Oman",
+        "text": "Muscat and Oman", 
         "id": "mk"
-    },
+    }, 
     {
-        "text": "Myanmar",
+        "text": "Myanmar", 
         "id": "br"
-    },
+    }, 
     {
-        "text": "Namibia",
+        "text": "Namibia", 
         "id": "sx"
-    },
+    }, 
     {
-        "text": "Namonuito Atoll",
+        "text": "Namonuito Atoll", 
         "id": "fm"
-    },
+    }, 
     {
-        "text": "Namorik Atoll",
+        "text": "Namorik Atoll", 
         "id": "xe"
-    },
+    }, 
     {
-        "text": "Namposhoto (Northern)",
+        "text": "Namposhoto (Northern)", 
         "id": "ja"
-    },
+    }, 
     {
-        "text": "Namposhoto (Southern)",
+        "text": "Namposhoto (Southern)", 
         "id": "ja"
-    },
+    }, 
     {
-        "text": "Nationalist China",
+        "text": "Nationalist China", 
         "id": "ch"
-    },
+    }, 
     {
-        "text": "Nauru",
+        "text": "Nauru", 
         "id": "nu"
-    },
+    }, 
     {
-        "text": "Navassa Island",
+        "text": "Navassa Island", 
         "id": "uc"
-    },
+    }, 
     {
-        "text": "Nebraska",
+        "text": "Nebraska", 
         "id": "nbu"
-    },
+    }, 
     {
-        "text": "Nepal",
+        "text": "Nepal", 
         "id": "np"
-    },
+    }, 
     {
-        "text": "Netherlands",
+        "text": "Netherlands", 
         "id": "ne"
-    },
+    }, 
     {
-        "text": "Netherlands Antilles",
+        "text": "Netherlands Antilles", 
         "id": "aw"
-    },
+    }, 
     {
-        "text": "Netherlands Antilles",
+        "text": "Netherlands Antilles", 
         "id": "ca"
-    },
+    }, 
     {
-        "text": "Netherlands Antilles",
+        "text": "Netherlands Antilles", 
         "id": "ca"
-    },
+    }, 
     {
-        "text": "Netherlands Antilles",
+        "text": "Netherlands Antilles", 
         "id": "ca"
-    },
+    }, 
     {
-        "text": "Netherlands Antilles",
+        "text": "Netherlands Antilles", 
         "id": "ca"
-    },
+    }, 
     {
-        "text": "Netherlands Antilles",
+        "text": "Netherlands Antilles", 
         "id": "ca"
-    },
+    }, 
     {
-        "text": "Netherlands Antilles",
+        "text": "Netherlands Antilles", 
         "id": "ca"
-    },
+    }, 
     {
-        "text": "Netherlands Antilles",
+        "text": "Netherlands Antilles", 
         "id": "co"
-    },
+    }, 
     {
-        "text": "Netherlands Antilles",
+        "text": "Netherlands Antilles", 
         "id": "co"
-    },
+    }, 
     {
-        "text": "Netherlands Antilles",
+        "text": "Netherlands Antilles", 
         "id": "co"
-    },
+    }, 
     {
-        "text": "Netherlands Antilles",
+        "text": "Netherlands Antilles", 
         "id": "sn"
-    },
+    }, 
     {
-        "text": "Netherlands Antilles",
+        "text": "Netherlands Antilles", 
         "id": "sn"
-    },
+    }, 
     {
-        "text": "Netherlands Antilles",
+        "text": "Netherlands Antilles", 
         "id": "sn"
-    },
+    }, 
     {
-        "text": "Netherlands Antilles",
+        "text": "Netherlands Antilles", 
         "id": "sn"
-    },
+    }, 
     {
-        "text": "Netherlands Guiana",
+        "text": "Netherlands Guiana", 
         "id": "sr"
-    },
+    }, 
     {
-        "text": "Netherlands New Guinea",
+        "text": "Netherlands New Guinea", 
         "id": "io"
-    },
+    }, 
     {
-        "text": "Nevada",
+        "text": "Nevada", 
         "id": "nvu"
-    },
+    }, 
     {
-        "text": "New Britain Island",
+        "text": "New Britain Island", 
         "id": "pp"
-    },
+    }, 
     {
-        "text": "New Brunswick",
+        "text": "New Brunswick", 
         "id": "nkc"
-    },
+    }, 
     {
-        "text": "New Caledonia",
+        "text": "New Caledonia", 
         "id": "nl"
-    },
+    }, 
     {
-        "text": "New Guinea",
+        "text": "New Guinea", 
         "id": "pp"
-    },
+    }, 
     {
-        "text": "New Hampshire",
+        "text": "New Hampshire", 
         "id": "nhu"
-    },
+    }, 
     {
-        "text": "New Hebrides",
+        "text": "New Hebrides", 
         "id": "nn"
-    },
+    }, 
     {
-        "text": "New Ireland Island",
+        "text": "New Ireland Island", 
         "id": "pp"
-    },
+    }, 
     {
-        "text": "New Jersey",
+        "text": "New Jersey", 
         "id": "nju"
-    },
+    }, 
     {
-        "text": "New Mexico",
+        "text": "New Mexico", 
         "id": "nmu"
-    },
+    }, 
     {
-        "text": "New Siberian Islands",
+        "text": "New Siberian Islands", 
         "id": "ru"
-    },
+    }, 
     {
-        "text": "New South Wales",
+        "text": "New South Wales", 
         "id": "xna"
-    },
+    }, 
     {
-        "text": "New Territories",
+        "text": "New Territories", 
         "id": "cc"
-    },
+    }, 
     {
-        "text": "New York (State)",
+        "text": "New York (State)", 
         "id": "nyu"
-    },
+    }, 
     {
-        "text": "New Zealand",
+        "text": "New Zealand", 
         "id": "nz"
-    },
+    }, 
     {
-        "text": "Newfoundland",
+        "text": "Newfoundland", 
         "id": "nfc"
-    },
+    }, 
     {
-        "text": "Newfoundland and Labrador",
+        "text": "Newfoundland and Labrador", 
         "id": "nfc"
-    },
+    }, 
     {
-        "text": "Ngatik Atoll",
+        "text": "Ngatik Atoll", 
         "id": "fm"
-    },
+    }, 
     {
-        "text": "Ngulu Atoll",
+        "text": "Ngulu Atoll", 
         "id": "fm"
-    },
+    }, 
     {
-        "text": "Nicaragua",
+        "text": "Nicaragua", 
         "id": "nq"
-    },
+    }, 
     {
-        "text": "Nicobar Islands",
+        "text": "Nicobar Islands", 
         "id": "ii"
-    },
+    }, 
     {
-        "text": "Niger",
+        "text": "Niger", 
         "id": "ng"
-    },
+    }, 
     {
-        "text": "Nigeria",
+        "text": "Nigeria", 
         "id": "nr"
-    },
+    }, 
     {
-        "text": "Nightingale Island",
+        "text": "Nightingale Island", 
         "id": "xj"
-    },
+    }, 
     {
-        "text": "Nikomaroro Atoll",
+        "text": "Nikomaroro Atoll", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Nishinoshima Island",
+        "text": "Nishinoshima Island", 
         "id": "ja"
-    },
+    }, 
     {
-        "text": "Niue",
+        "text": "Niue", 
         "id": "xh"
-    },
+    }, 
     {
-        "text": "Niulakita Island",
+        "text": "Niulakita Island", 
         "id": "tv"
-    },
+    }, 
     {
-        "text": "No place, unknown, or undetermined",
+        "text": "No place, unknown, or undetermined", 
         "id": "xx"
-    },
+    }, 
     {
-        "text": "Nomuka",
+        "text": "Nomuka", 
         "id": "to"
-    },
+    }, 
     {
-        "text": "Norfolk Island ",
+        "text": "Norfolk Island ", 
         "id": "nx"
-    },
+    }, 
     {
-        "text": "North Borneo",
+        "text": "North Borneo", 
         "id": "my"
-    },
+    }, 
     {
-        "text": "North Carolina",
+        "text": "North Carolina", 
         "id": "ncu"
-    },
+    }, 
     {
-        "text": "North Dakota",
+        "text": "North Dakota", 
         "id": "ndu"
-    },
+    }, 
     {
-        "text": "North East New Guinea",
+        "text": "North East New Guinea", 
         "id": "pp"
-    },
+    }, 
     {
-        "text": "North Island",
+        "text": "North Island", 
         "id": "nz"
-    },
+    }, 
     {
-        "text": "North Korea",
+        "text": "North Korea", 
         "id": "kn"
-    },
+    }, 
     {
-        "text": "North Vietnam",
+        "text": "North Vietnam", 
         "id": "vm"
-    },
+    }, 
     {
-        "text": "Northern Ireland",
+        "text": "Northern Ireland", 
         "id": "nik"
-    },
+    }, 
     {
-        "text": "Northern Mariana Islands",
+        "text": "Northern Mariana Islands", 
         "id": "nw"
-    },
+    }, 
     {
-        "text": "Northern Mariana Islands",
+        "text": "Northern Mariana Islands", 
         "id": "nw"
-    },
+    }, 
     {
-        "text": "Northern Rhodesia",
+        "text": "Northern Rhodesia", 
         "id": "za"
-    },
+    }, 
     {
-        "text": "Northern Territories",
+        "text": "Northern Territories", 
         "id": "gh"
-    },
+    }, 
     {
-        "text": "Northern Territory",
+        "text": "Northern Territory", 
         "id": "xoa"
-    },
+    }, 
     {
-        "text": "Northwest Territories",
+        "text": "Northwest Territories", 
         "id": "ntc"
-    },
+    }, 
     {
-        "text": "Norway",
+        "text": "Norway", 
         "id": "no"
-    },
+    }, 
     {
-        "text": "Nova Scotia",
+        "text": "Nova Scotia", 
         "id": "nsc"
-    },
+    }, 
     {
-        "text": "Novaya Zemlya",
+        "text": "Novaya Zemlya", 
         "id": "ru"
-    },
+    }, 
     {
-        "text": "Nukufetau Atoll",
+        "text": "Nukufetau Atoll", 
         "id": "tv"
-    },
+    }, 
     {
-        "text": "Nukulaelae Atoll",
+        "text": "Nukulaelae Atoll", 
         "id": "tv"
-    },
+    }, 
     {
-        "text": "Nukulailai Atoll",
+        "text": "Nukulailai Atoll", 
         "id": "tv"
-    },
+    }, 
     {
-        "text": "Nukunono Atoll",
+        "text": "Nukunono Atoll", 
         "id": "tl"
-    },
+    }, 
     {
-        "text": "Nukuoru Atoll",
+        "text": "Nukuoru Atoll", 
         "id": "fm"
-    },
+    }, 
     {
-        "text": "Nunavut",
+        "text": "Nunavut", 
         "id": "nuc"
-    },
+    }, 
     {
-        "text": "Nurakita Island",
+        "text": "Nurakita Island", 
         "id": "tv"
-    },
+    }, 
     {
-        "text": "Nyasaland",
+        "text": "Nyasaland", 
         "id": "mw"
-    },
+    }, 
     {
-        "text": "Ocean Island",
+        "text": "Ocean Island", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Oe-Cussi",
+        "text": "Oe-Cussi", 
         "id": "em"
-    },
+    }, 
     {
-        "text": "Oeno Atoll",
+        "text": "Oeno Atoll", 
         "id": "pc"
-    },
+    }, 
     {
-        "text": "Ohio",
+        "text": "Ohio", 
         "id": "ohu"
-    },
+    }, 
     {
-        "text": "Okinawa",
+        "text": "Okinawa", 
         "id": "ja"
-    },
+    }, 
     {
-        "text": "Oklahoma",
+        "text": "Oklahoma", 
         "id": "oku"
-    },
+    }, 
     {
-        "text": "Oman",
+        "text": "Oman", 
         "id": "mk"
-    },
+    }, 
     {
-        "text": "Oman, Trucial",
+        "text": "Oman, Trucial", 
         "id": "ts"
-    },
+    }, 
     {
-        "text": "Ontario",
+        "text": "Ontario", 
         "id": "onc"
-    },
+    }, 
     {
-        "text": "Oregon",
+        "text": "Oregon", 
         "id": "oru"
-    },
+    }, 
     {
-        "text": "Orkney Islands",
+        "text": "Orkney Islands", 
         "id": "uik"
-    },
+    }, 
     {
-        "text": "Oroluk Atoll",
+        "text": "Oroluk Atoll", 
         "id": "fm"
-    },
+    }, 
     {
-        "text": "Orona Atoll",
+        "text": "Orona Atoll", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Otu Tolu",
+        "text": "Otu Tolu", 
         "id": "to"
-    },
+    }, 
     {
-        "text": "Outer Mongolia",
+        "text": "Outer Mongolia", 
         "id": "mp"
-    },
+    }, 
     {
-        "text": "P'eng-hu Island",
+        "text": "P'eng-hu Island", 
         "id": "ch"
-    },
+    }, 
     {
-        "text": "Pacific Islands (Trust Territory)",
+        "text": "Pacific Islands (Trust Territory)", 
         "id": "xe"
-    },
+    }, 
     {
-        "text": "Pacific Islands (Trust Territory)",
+        "text": "Pacific Islands (Trust Territory)", 
         "id": "fm"
-    },
+    }, 
     {
-        "text": "Pacific Islands (Trust Territory)",
+        "text": "Pacific Islands (Trust Territory)", 
         "id": "nw"
-    },
+    }, 
     {
-        "text": "Pacific Islands (Trust Territory)",
+        "text": "Pacific Islands (Trust Territory)", 
         "id": "pw"
-    },
+    }, 
     {
-        "text": "Pagalu",
+        "text": "Pagalu", 
         "id": "eg"
-    },
+    }, 
     {
-        "text": "Pagan Island",
+        "text": "Pagan Island", 
         "id": "nw"
-    },
+    }, 
     {
-        "text": "Pakistan",
+        "text": "Pakistan", 
         "id": "pk"
-    },
+    }, 
     {
-        "text": "Palau",
+        "text": "Palau", 
         "id": "pw"
-    },
+    }, 
     {
-        "text": "Palmyra Atoll",
+        "text": "Palmyra Atoll", 
         "id": "up"
-    },
+    }, 
     {
-        "text": "Panama",
+        "text": "Panama", 
         "id": "pn"
-    },
+    }, 
     {
-        "text": "Pantelleria",
+        "text": "Pantelleria", 
         "id": "it"
-    },
+    }, 
     {
-        "text": "Papua New Guinea",
+        "text": "Papua New Guinea", 
         "id": "pp"
-    },
+    }, 
     {
-        "text": "Paracel Islands]",
+        "text": "Paracel Islands]", 
         "id": "pf"
-    },
+    }, 
     {
-        "text": "Paraguay",
+        "text": "Paraguay", 
         "id": "py"
-    },
+    }, 
     {
-        "text": "Parece Vela Island",
+        "text": "Parece Vela Island", 
         "id": "ja"
-    },
+    }, 
     {
-        "text": "Pasqua, Isla de",
+        "text": "Pasqua, Isla de", 
         "id": "cl"
-    },
+    }, 
     {
-        "text": "Pedro Cays",
+        "text": "Pedro Cays", 
         "id": "jm"
-    },
+    }, 
     {
-        "text": "Peleliu Island",
+        "text": "Peleliu Island", 
         "id": "pw"
-    },
+    }, 
     {
-        "text": "Pelew",
+        "text": "Pelew", 
         "id": "pw"
-    },
+    }, 
     {
-        "text": "Pemba",
+        "text": "Pemba", 
         "id": "tz"
-    },
+    }, 
     {
-        "text": "Penedos de São Pedro e São Paulo",
+        "text": "Penedos de São Pedro e São Paulo", 
         "id": "bl"
-    },
+    }, 
     {
-        "text": "Pennsylvania",
+        "text": "Pennsylvania", 
         "id": "pau"
-    },
+    }, 
     {
-        "text": "Penrhyn Atoll",
+        "text": "Penrhyn Atoll", 
         "id": "cw"
-    },
+    }, 
     {
-        "text": "Perim",
+        "text": "Perim", 
         "id": "ye"
-    },
+    }, 
     {
-        "text": "Peru",
+        "text": "Peru", 
         "id": "pe"
-    },
+    }, 
     {
-        "text": "Pescadores Islands",
+        "text": "Pescadores Islands", 
         "id": "ch"
-    },
+    }, 
     {
-        "text": "Petite Terre, Iles de",
+        "text": "Petite Terre, Iles de", 
         "id": "gp"
-    },
+    }, 
     {
-        "text": "Peñón de Alhucemas",
+        "text": "Peñón de Alhucemas", 
         "id": "sh"
-    },
+    }, 
     {
-        "text": "Peñón de Vélez de la Gomera",
+        "text": "Peñón de Vélez de la Gomera", 
         "id": "sh"
-    },
+    }, 
     {
-        "text": "Philippines",
+        "text": "Philippines", 
         "id": "ph"
-    },
+    }, 
     {
-        "text": "Phoenix Atoll",
+        "text": "Phoenix Atoll", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Phoenix Islands",
+        "text": "Phoenix Islands", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Pines, Isle of (Caribbean)",
+        "text": "Pines, Isle of (Caribbean)", 
         "id": "cu"
-    },
+    }, 
     {
-        "text": "Pines, Isle of (Pacific Ocean)",
+        "text": "Pines, Isle of (Pacific Ocean)", 
         "id": "nl"
-    },
+    }, 
     {
-        "text": "Pingelap Atoll",
+        "text": "Pingelap Atoll", 
         "id": "fm"
-    },
+    }, 
     {
-        "text": "Pins, Ile des",
+        "text": "Pins, Ile des", 
         "id": "nl"
-    },
+    }, 
     {
-        "text": "Pitcairn Island",
+        "text": "Pitcairn Island", 
         "id": "pc"
-    },
+    }, 
     {
-        "text": "Plazas de Soberania",
+        "text": "Plazas de Soberania", 
         "id": "sh"
-    },
+    }, 
     {
-        "text": "Pohnpei",
+        "text": "Pohnpei", 
         "id": "fm"
-    },
+    }, 
     {
-        "text": "Poland",
+        "text": "Poland", 
         "id": "pl"
-    },
+    }, 
     {
-        "text": "Polynesia, French",
+        "text": "Polynesia, French", 
         "id": "fp"
-    },
+    }, 
     {
-        "text": "Ponape (Micronesia)",
+        "text": "Ponape (Micronesia)", 
         "id": "fm"
-    },
+    }, 
     {
-        "text": "Portugal",
+        "text": "Portugal", 
         "id": "po"
-    },
+    }, 
     {
-        "text": "Portuguese Guinea",
+        "text": "Portuguese Guinea", 
         "id": "pg"
-    },
+    }, 
     {
-        "text": "Portuguese Timor",
+        "text": "Portuguese Timor", 
         "id": "em"
-    },
+    }, 
     {
-        "text": "Portuguese Timor",
+        "text": "Portuguese Timor", 
         "id": "em"
-    },
+    }, 
     {
-        "text": "Portuguese Timor",
+        "text": "Portuguese Timor", 
         "id": "em"
-    },
+    }, 
     {
-        "text": "Portuguese Timor",
+        "text": "Portuguese Timor", 
         "id": "em"
-    },
+    }, 
     {
-        "text": "Portuguese Timor",
+        "text": "Portuguese Timor", 
         "id": "em"
-    },
+    }, 
     {
-        "text": "Portuguese Timor",
+        "text": "Portuguese Timor", 
         "id": "em"
-    },
+    }, 
     {
-        "text": "Portuguese Timor",
+        "text": "Portuguese Timor", 
         "id": "em"
-    },
+    }, 
     {
-        "text": "Prince Edward Island",
+        "text": "Prince Edward Island", 
         "id": "pic"
-    },
+    }, 
     {
-        "text": "Prince Edward Islands",
+        "text": "Prince Edward Islands", 
         "id": "sa"
-    },
+    }, 
     {
-        "text": "Protectorate of South Arabia",
+        "text": "Protectorate of South Arabia", 
         "id": "ye"
-    },
+    }, 
     {
-        "text": "Puerto Rico",
+        "text": "Puerto Rico", 
         "id": "pr"
-    },
+    }, 
     {
-        "text": "Pulap Atoll",
+        "text": "Pulap Atoll", 
         "id": "fm"
-    },
+    }, 
     {
-        "text": "Pulo Anna Island",
+        "text": "Pulo Anna Island", 
         "id": "pw"
-    },
+    }, 
     {
-        "text": "Pulusak Island",
+        "text": "Pulusak Island", 
         "id": "fm"
-    },
+    }, 
     {
-        "text": "Puluwat Atoll",
+        "text": "Puluwat Atoll", 
         "id": "fm"
-    },
+    }, 
     {
-        "text": "Qatar",
+        "text": "Qatar", 
         "id": "qa"
-    },
+    }, 
     {
-        "text": "Queensland",
+        "text": "Queensland", 
         "id": "qea"
-    },
+    }, 
     {
-        "text": "Quita Sueno Bank",
+        "text": "Quita Sueno Bank", 
         "id": "uc"
-    },
+    }, 
     {
-        "text": "Québec (Province)",
+        "text": "Québec (Province)", 
         "id": "quc"
-    },
+    }, 
     {
-        "text": "Ra's al-Khaymah",
+        "text": "Ra's al-Khaymah", 
         "id": "ts"
-    },
+    }, 
     {
-        "text": "Rakahanga Atoll",
+        "text": "Rakahanga Atoll", 
         "id": "cw"
-    },
+    }, 
     {
-        "text": "Ralik Chain",
+        "text": "Ralik Chain", 
         "id": "xe"
-    },
+    }, 
     {
-        "text": "Ras al Khaimah",
+        "text": "Ras al Khaimah", 
         "id": "ts"
-    },
+    }, 
     {
-        "text": "Ratak Chains",
+        "text": "Ratak Chains", 
         "id": "xe"
-    },
+    }, 
     {
-        "text": "Rawaki",
+        "text": "Rawaki", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Redonda",
+        "text": "Redonda", 
         "id": "aq"
-    },
+    }, 
     {
-        "text": "Revillagigedo, Islas de",
+        "text": "Revillagigedo, Islas de", 
         "id": "mx"
-    },
+    }, 
     {
-        "text": "Rhode Island",
+        "text": "Rhode Island", 
         "id": "riu"
-    },
+    }, 
     {
-        "text": "Rhodesia",
+        "text": "Rhodesia", 
         "id": "rh"
-    },
+    }, 
     {
-        "text": "Rio Muni",
+        "text": "Rio Muni", 
         "id": "eg"
-    },
+    }, 
     {
-        "text": "Rocas",
+        "text": "Rocas", 
         "id": "bl"
-    },
+    }, 
     {
-        "text": "Rodrigues Island",
+        "text": "Rodrigues Island", 
         "id": "mf"
-    },
+    }, 
     {
-        "text": "Romania",
+        "text": "Romania", 
         "id": "rm"
-    },
+    }, 
     {
-        "text": "Roncador Cay",
+        "text": "Roncador Cay", 
         "id": "uc"
-    },
+    }, 
     {
-        "text": "Rongelap Atoll",
+        "text": "Rongelap Atoll", 
         "id": "xe"
-    },
+    }, 
     {
-        "text": "Rota Island",
+        "text": "Rota Island", 
         "id": "nw"
-    },
+    }, 
     {
-        "text": "Rotuma Island",
+        "text": "Rotuma Island", 
         "id": "fj"
-    },
+    }, 
     {
-        "text": "Rumania",
+        "text": "Rumania", 
         "id": "rm"
-    },
+    }, 
     {
-        "text": "Russia (Federation)",
+        "text": "Russia (Federation)", 
         "id": "ru"
-    },
+    }, 
     {
-        "text": "Russian S.F.S.R.",
+        "text": "Russian S.F.S.R.", 
         "id": "ru"
-    },
+    }, 
     {
-        "text": "Russian S.F.S.R.",
+        "text": "Russian S.F.S.R.", 
         "id": "ru"
-    },
+    }, 
     {
-        "text": "Russian S.F.S.R.",
+        "text": "Russian S.F.S.R.", 
         "id": "ru"
-    },
+    }, 
     {
-        "text": "Rwanda",
+        "text": "Rwanda", 
         "id": "rw"
-    },
+    }, 
     {
-        "text": "Ryukyu Islands, Northern",
+        "text": "Ryukyu Islands, Northern", 
         "id": "ja"
-    },
+    }, 
     {
-        "text": "Ryukyu Islands, Southern",
+        "text": "Ryukyu Islands, Southern", 
         "id": "ja"
-    },
+    }, 
     {
-        "text": "Ryukyu Islands, Southern",
+        "text": "Ryukyu Islands, Southern", 
         "id": "ja"
-    },
+    }, 
     {
-        "text": "Ryukyu Islands, Southern",
+        "text": "Ryukyu Islands, Southern", 
         "id": "ja"
-    },
+    }, 
     {
-        "text": "Ryukyu Islands, Southern",
+        "text": "Ryukyu Islands, Southern", 
         "id": "ja"
-    },
+    }, 
     {
-        "text": "Ryukyu Islands, Southern",
+        "text": "Ryukyu Islands, Southern", 
         "id": "ja"
-    },
+    }, 
     {
-        "text": "Réunion",
+        "text": "Réunion", 
         "id": "re"
-    },
+    }, 
     {
-        "text": "Río de Oro",
+        "text": "Río de Oro", 
         "id": "ss"
-    },
+    }, 
     {
-        "text": "Saba",
+        "text": "Saba", 
         "id": "ca"
-    },
+    }, 
     {
-        "text": "Saba (Netherlands Antilles)",
+        "text": "Saba (Netherlands Antilles)", 
         "id": "ca"
-    },
+    }, 
     {
-        "text": "Sabah",
+        "text": "Sabah", 
         "id": "my"
-    },
+    }, 
     {
-        "text": "Saguia el Hamra",
+        "text": "Saguia el Hamra", 
         "id": "ss"
-    },
+    }, 
     {
-        "text": "Saint Bartholomew",
+        "text": "Saint Bartholomew", 
         "id": "sc"
-    },
+    }, 
     {
-        "text": "Saint Barts",
+        "text": "Saint Barts", 
         "id": "sc"
-    },
+    }, 
     {
-        "text": "Saint Brandon",
+        "text": "Saint Brandon", 
         "id": "mf"
-    },
+    }, 
     {
-        "text": "Saint Christopher",
+        "text": "Saint Christopher", 
         "id": "xd"
-    },
+    }, 
     {
-        "text": "Saint Eustatius",
+        "text": "Saint Eustatius", 
         "id": "ca"
-    },
+    }, 
     {
-        "text": "Saint Francois Island",
+        "text": "Saint Francois Island", 
         "id": "se"
-    },
+    }, 
     {
-        "text": "Saint Helena",
+        "text": "Saint Helena", 
         "id": "xj"
-    },
+    }, 
     {
-        "text": "Saint Kitts-Nevis",
+        "text": "Saint Kitts-Nevis", 
         "id": "xd"
-    },
+    }, 
     {
-        "text": "Saint Kitts-Nevis-Anguilla",
+        "text": "Saint Kitts-Nevis-Anguilla", 
         "id": "am"
-    },
+    }, 
     {
-        "text": "Saint Kitts-Nevis-Anguilla",
+        "text": "Saint Kitts-Nevis-Anguilla", 
         "id": "am"
-    },
+    }, 
     {
-        "text": "Saint Kitts-Nevis-Anguilla",
+        "text": "Saint Kitts-Nevis-Anguilla", 
         "id": "am"
-    },
+    }, 
     {
-        "text": "Saint Kitts-Nevis-Anguilla",
+        "text": "Saint Kitts-Nevis-Anguilla", 
         "id": "xd"
-    },
+    }, 
     {
-        "text": "Saint Kitts-Nevis-Anguilla",
+        "text": "Saint Kitts-Nevis-Anguilla", 
         "id": "xd"
-    },
+    }, 
     {
-        "text": "Saint Kitts-Nevis-Anguilla",
+        "text": "Saint Kitts-Nevis-Anguilla", 
         "id": "xd"
-    },
+    }, 
     {
-        "text": "Saint Lucia",
+        "text": "Saint Lucia", 
         "id": "xk"
-    },
+    }, 
     {
-        "text": "Saint Martin, Northern",
+        "text": "Saint Martin, Northern", 
         "id": "st"
-    },
+    }, 
     {
-        "text": "Saint Martin, Southern",
+        "text": "Saint Martin, Southern", 
         "id": "sn"
-    },
+    }, 
     {
-        "text": "Saint Paul Island",
+        "text": "Saint Paul Island", 
         "id": "fs"
-    },
+    }, 
     {
-        "text": "Saint Pierre Islet",
+        "text": "Saint Pierre Islet", 
         "id": "se"
-    },
+    }, 
     {
-        "text": "Saint Pierre and Miquelon",
+        "text": "Saint Pierre and Miquelon", 
         "id": "xl"
-    },
+    }, 
     {
-        "text": "Saint Vincent",
+        "text": "Saint Vincent", 
         "id": "xm"
-    },
+    }, 
     {
-        "text": "Saint Vincent and the Grenadines",
+        "text": "Saint Vincent and the Grenadines", 
         "id": "xm"
-    },
+    }, 
     {
-        "text": "Saint-Barthélemy",
+        "text": "Saint-Barthélemy", 
         "id": "sc"
-    },
+    }, 
     {
-        "text": "Saint-Martin",
+        "text": "Saint-Martin", 
         "id": "st"
-    },
+    }, 
     {
-        "text": "Saint-Martin (Collectivity)",
+        "text": "Saint-Martin (Collectivity)", 
         "id": "st"
-    },
+    }, 
     {
-        "text": "Saint-Martin (France: Collectivity)",
+        "text": "Saint-Martin (France: Collectivity)", 
         "id": "st"
-    },
+    }, 
     {
-        "text": "Saintes, Iles des",
+        "text": "Saintes, Iles des", 
         "id": "gp"
-    },
+    }, 
     {
-        "text": "Saipan Island",
+        "text": "Saipan Island", 
         "id": "nw"
-    },
+    }, 
     {
-        "text": "Sakhalin (Southern)",
+        "text": "Sakhalin (Southern)", 
         "id": "ru"
-    },
+    }, 
     {
-        "text": "Sal",
+        "text": "Sal", 
         "id": "cv"
-    },
+    }, 
     {
-        "text": "Sala y Gómez, Isla",
+        "text": "Sala y Gómez, Isla", 
         "id": "cl"
-    },
+    }, 
     {
-        "text": "Salvador",
+        "text": "Salvador", 
         "id": "es"
-    },
+    }, 
     {
-        "text": "Samoa",
+        "text": "Samoa", 
         "id": "ws"
-    },
+    }, 
     {
-        "text": "Samoa i Sisifo",
+        "text": "Samoa i Sisifo", 
         "id": "ws"
-    },
+    }, 
     {
-        "text": "Samoa, American",
+        "text": "Samoa, American", 
         "id": "as"
-    },
+    }, 
     {
-        "text": "Samoa, Western",
+        "text": "Samoa, Western", 
         "id": "ws"
-    },
+    }, 
     {
-        "text": "San Andrés y Providencia",
+        "text": "San Andrés y Providencia", 
         "id": "ck"
-    },
+    }, 
     {
-        "text": "San Cristóbal",
+        "text": "San Cristóbal", 
         "id": "bp"
-    },
+    }, 
     {
-        "text": "San Félix",
+        "text": "San Félix", 
         "id": "cl"
-    },
+    }, 
     {
-        "text": "San Marino",
+        "text": "San Marino", 
         "id": "sm"
-    },
+    }, 
     {
-        "text": "Sand Island",
+        "text": "Sand Island", 
         "id": "ji"
-    },
+    }, 
     {
-        "text": "Santa Isabel",
+        "text": "Santa Isabel", 
         "id": "bp"
-    },
+    }, 
     {
-        "text": "Santo Antao",
+        "text": "Santo Antao", 
         "id": "cv"
-    },
+    }, 
     {
-        "text": "Sao Tome and Principe",
+        "text": "Sao Tome and Principe", 
         "id": "sf"
-    },
+    }, 
     {
-        "text": "Sarawak",
+        "text": "Sarawak", 
         "id": "my"
-    },
+    }, 
     {
-        "text": "Sardinia",
+        "text": "Sardinia", 
         "id": "it"
-    },
+    }, 
     {
-        "text": "Sarigan Island",
+        "text": "Sarigan Island", 
         "id": "nw"
-    },
+    }, 
     {
-        "text": "Sark Island",
+        "text": "Sark Island", 
         "id": "uik"
-    },
+    }, 
     {
-        "text": "Saskatchewan",
+        "text": "Saskatchewan", 
         "id": "snc"
-    },
+    }, 
     {
-        "text": "Satawal Island",
+        "text": "Satawal Island", 
         "id": "fm"
-    },
+    }, 
     {
-        "text": "Saudi Arabia",
+        "text": "Saudi Arabia", 
         "id": "su"
-    },
+    }, 
     {
-        "text": "Savai'i",
+        "text": "Savai'i", 
         "id": "ws"
-    },
+    }, 
     {
-        "text": "Scotland",
+        "text": "Scotland", 
         "id": "stk"
-    },
+    }, 
     {
-        "text": "Senegal",
+        "text": "Senegal", 
         "id": "sg"
-    },
+    }, 
     {
-        "text": "Senyavin Islands",
+        "text": "Senyavin Islands", 
         "id": "fm"
-    },
+    }, 
     {
-        "text": "Serbia",
+        "text": "Serbia", 
         "id": "rb"
-    },
+    }, 
     {
-        "text": "Serrana Bank",
+        "text": "Serrana Bank", 
         "id": "ck"
-    },
+    }, 
     {
-        "text": "Serranilla Bank",
+        "text": "Serranilla Bank", 
         "id": "ck"
-    },
+    }, 
     {
-        "text": "Severnaya Zemlya",
+        "text": "Severnaya Zemlya", 
         "id": "ru"
-    },
+    }, 
     {
-        "text": "Seychelles",
+        "text": "Seychelles", 
         "id": "se"
-    },
+    }, 
     {
-        "text": "Shariqah",
+        "text": "Shariqah", 
         "id": "ts"
-    },
+    }, 
     {
-        "text": "Sharjah",
+        "text": "Sharjah", 
         "id": "ts"
-    },
+    }, 
     {
-        "text": "Shetland Islands",
+        "text": "Shetland Islands", 
         "id": "uik"
-    },
+    }, 
     {
-        "text": "Siam",
+        "text": "Siam", 
         "id": "th"
-    },
+    }, 
     {
-        "text": "Sicily",
+        "text": "Sicily", 
         "id": "it"
-    },
+    }, 
     {
-        "text": "Sierra Leone",
+        "text": "Sierra Leone", 
         "id": "sl"
-    },
+    }, 
     {
-        "text": "Sikkim",
+        "text": "Sikkim", 
         "id": "ii"
-    },
+    }, 
     {
-        "text": "Sikkim",
+        "text": "Sikkim", 
         "id": "ii"
-    },
+    }, 
     {
-        "text": "Singapore",
+        "text": "Singapore", 
         "id": "si"
-    },
+    }, 
     {
-        "text": "Sinkiang",
+        "text": "Sinkiang", 
         "id": "cc"
-    },
+    }, 
     {
-        "text": "Sint Eustatius",
+        "text": "Sint Eustatius", 
         "id": "ca"
-    },
+    }, 
     {
-        "text": "Sint Eustatius (Netherlands Antilles)",
+        "text": "Sint Eustatius (Netherlands Antilles)", 
         "id": "ca"
-    },
+    }, 
     {
-        "text": "Sint Maarten",
+        "text": "Sint Maarten", 
         "id": "sn"
-    },
+    }, 
     {
-        "text": "Sint Maarten (Netherlands Antilles)",
+        "text": "Sint Maarten (Netherlands Antilles)", 
         "id": "sn"
-    },
+    }, 
     {
-        "text": "Slovak Socialist Republic",
+        "text": "Slovak Socialist Republic", 
         "id": "xo"
-    },
+    }, 
     {
-        "text": "Slovakia",
+        "text": "Slovakia", 
         "id": "xo"
-    },
+    }, 
     {
-        "text": "Slovenia",
+        "text": "Slovenia", 
         "id": "xv"
-    },
+    }, 
     {
-        "text": "Society Islands",
+        "text": "Society Islands", 
         "id": "fp"
-    },
+    }, 
     {
-        "text": "Socotra",
+        "text": "Socotra", 
         "id": "ye"
-    },
+    }, 
     {
-        "text": "Solomon Islands",
+        "text": "Solomon Islands", 
         "id": "bp"
-    },
+    }, 
     {
-        "text": "Solomon Islands Protectorate",
+        "text": "Solomon Islands Protectorate", 
         "id": "bp"
-    },
+    }, 
     {
-        "text": "Solomon Islands, Northern",
+        "text": "Solomon Islands, Northern", 
         "id": "pp"
-    },
+    }, 
     {
-        "text": "Somali Republic",
+        "text": "Somali Republic", 
         "id": "so"
-    },
+    }, 
     {
-        "text": "Somalia",
+        "text": "Somalia", 
         "id": "so"
-    },
+    }, 
     {
-        "text": "Sombrero Island",
+        "text": "Sombrero Island", 
         "id": "am"
-    },
+    }, 
     {
-        "text": "Sonsoral Islands",
+        "text": "Sonsoral Islands", 
         "id": "pw"
-    },
+    }, 
     {
-        "text": "Soudan",
+        "text": "Soudan", 
         "id": "ml"
-    },
+    }, 
     {
-        "text": "Sous le Vent, Iles",
+        "text": "Sous le Vent, Iles", 
         "id": "fp"
-    },
+    }, 
     {
-        "text": "South Africa",
+        "text": "South Africa", 
         "id": "sa"
-    },
+    }, 
     {
-        "text": "South Arabia",
+        "text": "South Arabia", 
         "id": "ye"
-    },
+    }, 
     {
-        "text": "South Australia",
+        "text": "South Australia", 
         "id": "xra"
-    },
+    }, 
     {
-        "text": "South Carolina",
+        "text": "South Carolina", 
         "id": "scu"
-    },
+    }, 
     {
-        "text": "South Dakota",
+        "text": "South Dakota", 
         "id": "sdu"
-    },
+    }, 
     {
-        "text": "South Georgia Island",
+        "text": "South Georgia Island", 
         "id": "xs"
-    },
+    }, 
     {
-        "text": "South Georgia and the South Sandwich Islands",
+        "text": "South Georgia and the South Sandwich Islands", 
         "id": "xs"
-    },
+    }, 
     {
-        "text": "South Island",
+        "text": "South Island", 
         "id": "nz"
-    },
+    }, 
     {
-        "text": "South Korea",
+        "text": "South Korea", 
         "id": "ko"
-    },
+    }, 
     {
-        "text": "South Sandwich Islands",
+        "text": "South Sandwich Islands", 
         "id": "xs"
-    },
+    }, 
     {
-        "text": "South Sotho",
+        "text": "South Sotho", 
         "id": "sa"
-    },
+    }, 
     {
-        "text": "South Sudan",
+        "text": "South Sudan", 
         "id": "sd"
-    },
+    }, 
     {
-        "text": "South Vietnam",
+        "text": "South Vietnam", 
         "id": "vm"
-    },
+    }, 
     {
-        "text": "South-West Africa",
+        "text": "South-West Africa", 
         "id": "sx"
-    },
+    }, 
     {
-        "text": "Southern Cameroons",
+        "text": "Southern Cameroons", 
         "id": "cm"
-    },
+    }, 
     {
-        "text": "Southern Rhodesia",
+        "text": "Southern Rhodesia", 
         "id": "rh"
-    },
+    }, 
     {
-        "text": "Southern Yemen",
+        "text": "Southern Yemen", 
         "id": "ye"
-    },
+    }, 
     {
-        "text": "Soviet Union",
+        "text": "Soviet Union", 
         "id": "ai"
-    },
+    }, 
     {
-        "text": "Soviet Union",
+        "text": "Soviet Union", 
         "id": "ai"
-    },
+    }, 
     {
-        "text": "Soviet Union",
+        "text": "Soviet Union", 
         "id": "ai"
-    },
+    }, 
     {
-        "text": "Soviet Union",
+        "text": "Soviet Union", 
         "id": "aj"
-    },
+    }, 
     {
-        "text": "Soviet Union",
+        "text": "Soviet Union", 
         "id": "aj"
-    },
+    }, 
     {
-        "text": "Soviet Union",
+        "text": "Soviet Union", 
         "id": "aj"
-    },
+    }, 
     {
-        "text": "Soviet Union",
+        "text": "Soviet Union", 
         "id": "bw"
-    },
+    }, 
     {
-        "text": "Soviet Union",
+        "text": "Soviet Union", 
         "id": "bw"
-    },
+    }, 
     {
-        "text": "Soviet Union",
+        "text": "Soviet Union", 
         "id": "bw"
-    },
+    }, 
     {
-        "text": "Soviet Union",
+        "text": "Soviet Union", 
         "id": "gs"
-    },
+    }, 
     {
-        "text": "Soviet Union",
+        "text": "Soviet Union", 
         "id": "gs"
-    },
+    }, 
     {
-        "text": "Soviet Union",
+        "text": "Soviet Union", 
         "id": "gs"
-    },
+    }, 
     {
-        "text": "Soviet Union",
+        "text": "Soviet Union", 
         "id": "kz"
-    },
+    }, 
     {
-        "text": "Soviet Union",
+        "text": "Soviet Union", 
         "id": "kz"
-    },
+    }, 
     {
-        "text": "Soviet Union",
+        "text": "Soviet Union", 
         "id": "kz"
-    },
+    }, 
     {
-        "text": "Soviet Union",
+        "text": "Soviet Union", 
         "id": "kg"
-    },
+    }, 
     {
-        "text": "Soviet Union",
+        "text": "Soviet Union", 
         "id": "kg"
-    },
+    }, 
     {
-        "text": "Soviet Union",
+        "text": "Soviet Union", 
         "id": "kg"
-    },
+    }, 
     {
-        "text": "Soviet Union",
+        "text": "Soviet Union", 
         "id": "mv"
-    },
+    }, 
     {
-        "text": "Soviet Union",
+        "text": "Soviet Union", 
         "id": "mv"
-    },
+    }, 
     {
-        "text": "Soviet Union",
+        "text": "Soviet Union", 
         "id": "mv"
-    },
+    }, 
     {
-        "text": "Soviet Union",
+        "text": "Soviet Union", 
         "id": "ru"
-    },
+    }, 
     {
-        "text": "Soviet Union",
+        "text": "Soviet Union", 
         "id": "ru"
-    },
+    }, 
     {
-        "text": "Soviet Union",
+        "text": "Soviet Union", 
         "id": "ru"
-    },
+    }, 
     {
-        "text": "Soviet Union",
+        "text": "Soviet Union", 
         "id": "ta"
-    },
+    }, 
     {
-        "text": "Soviet Union",
+        "text": "Soviet Union", 
         "id": "ta"
-    },
+    }, 
     {
-        "text": "Soviet Union",
+        "text": "Soviet Union", 
         "id": "ta"
-    },
+    }, 
     {
-        "text": "Soviet Union",
+        "text": "Soviet Union", 
         "id": "tk"
-    },
+    }, 
     {
-        "text": "Soviet Union",
+        "text": "Soviet Union", 
         "id": "tk"
-    },
+    }, 
     {
-        "text": "Soviet Union",
+        "text": "Soviet Union", 
         "id": "tk"
-    },
+    }, 
     {
-        "text": "Soviet Union",
+        "text": "Soviet Union", 
         "id": "uz"
-    },
+    }, 
     {
-        "text": "Soviet Union",
+        "text": "Soviet Union", 
         "id": "uz"
-    },
+    }, 
     {
-        "text": "Soviet Union",
+        "text": "Soviet Union", 
         "id": "uz"
-    },
+    }, 
     {
-        "text": "Spain",
+        "text": "Spain", 
         "id": "sp"
-    },
+    }, 
     {
-        "text": "Spanish Morocco",
+        "text": "Spanish Morocco", 
         "id": "mr"
-    },
+    }, 
     {
-        "text": "Spanish North Africa",
+        "text": "Spanish North Africa", 
         "id": "sh"
-    },
+    }, 
     {
-        "text": "Spanish Sahara",
+        "text": "Spanish Sahara", 
         "id": "ss"
-    },
+    }, 
     {
-        "text": "Spanish Territories in Northern Morocco",
+        "text": "Spanish Territories in Northern Morocco", 
         "id": "sh"
-    },
+    }, 
     {
-        "text": "Spitsbergen",
+        "text": "Spitsbergen", 
         "id": "no"
-    },
+    }, 
     {
-        "text": "Spratly Island",
+        "text": "Spratly Island", 
         "id": "xp"
-    },
+    }, 
     {
-        "text": "Sri Lanka",
+        "text": "Sri Lanka", 
         "id": "ce"
-    },
+    }, 
     {
-        "text": "St. Barthélemy",
+        "text": "St. Barthélemy", 
         "id": "sc"
-    },
+    }, 
     {
-        "text": "St. Christopher",
+        "text": "St. Christopher", 
         "id": "xd"
-    },
+    }, 
     {
-        "text": "Starbuck Island",
+        "text": "Starbuck Island", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Statia (Netherlands Antilles)",
+        "text": "Statia (Netherlands Antilles)", 
         "id": "ca"
-    },
+    }, 
     {
-        "text": "Stewart Island",
+        "text": "Stewart Island", 
         "id": "nz"
-    },
+    }, 
     {
-        "text": "Sudan",
+        "text": "Sudan", 
         "id": "sj"
-    },
+    }, 
     {
-        "text": "Sudan, French",
+        "text": "Sudan, French", 
         "id": "ml"
-    },
+    }, 
     {
-        "text": "Sudan, South",
+        "text": "Sudan, South", 
         "id": "sd"
-    },
+    }, 
     {
-        "text": "Surinam",
+        "text": "Surinam", 
         "id": "sr"
-    },
+    }, 
     {
-        "text": "Svalbard",
+        "text": "Svalbard", 
         "id": "no"
-    },
+    }, 
     {
-        "text": "Svalbard (Norway)",
+        "text": "Svalbard (Norway)", 
         "id": "no"
-    },
+    }, 
     {
-        "text": "Swan Islands",
+        "text": "Swan Islands", 
         "id": "ho"
-    },
+    }, 
     {
-        "text": "Swan Islands",
+        "text": "Swan Islands", 
         "id": "ho"
-    },
+    }, 
     {
-        "text": "Swaziland",
+        "text": "Swaziland", 
         "id": "sq"
-    },
+    }, 
     {
-        "text": "Sweden",
+        "text": "Sweden", 
         "id": "sw"
-    },
+    }, 
     {
-        "text": "Switzerland",
+        "text": "Switzerland", 
         "id": "sz"
-    },
+    }, 
     {
-        "text": "Sydney Atoll",
+        "text": "Sydney Atoll", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Syria",
+        "text": "Syria", 
         "id": "sy"
-    },
+    }, 
     {
-        "text": "Syrian Arab Republic",
+        "text": "Syrian Arab Republic", 
         "id": "sy"
-    },
+    }, 
     {
-        "text": "São Nicolau",
+        "text": "São Nicolau", 
         "id": "cv"
-    },
+    }, 
     {
-        "text": "São Tiago",
+        "text": "São Tiago", 
         "id": "cv"
-    },
+    }, 
     {
-        "text": "São Vicente",
+        "text": "São Vicente", 
         "id": "cv"
-    },
+    }, 
     {
-        "text": "T.A.A.F.",
+        "text": "T.A.A.F.", 
         "id": "fs"
-    },
+    }, 
     {
-        "text": "Tabuarean Island",
+        "text": "Tabuarean Island", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Tadzhik S.S.R.",
+        "text": "Tadzhik S.S.R.", 
         "id": "ta"
-    },
+    }, 
     {
-        "text": "Tahiti",
+        "text": "Tahiti", 
         "id": "fp"
-    },
+    }, 
     {
-        "text": "Taipa",
+        "text": "Taipa", 
         "id": "cc"
-    },
+    }, 
     {
-        "text": "Taiwan Island",
+        "text": "Taiwan Island", 
         "id": "ch"
-    },
+    }, 
     {
-        "text": "Tajik S.S.R.",
+        "text": "Tajik S.S.R.", 
         "id": "ta"
-    },
+    }, 
     {
-        "text": "Tajik S.S.R.",
+        "text": "Tajik S.S.R.", 
         "id": "ta"
-    },
+    }, 
     {
-        "text": "Tajik S.S.R.",
+        "text": "Tajik S.S.R.", 
         "id": "ta"
-    },
+    }, 
     {
-        "text": "Tajik S.S.R.",
+        "text": "Tajik S.S.R.", 
         "id": "ta"
-    },
+    }, 
     {
-        "text": "Tajikistan",
+        "text": "Tajikistan", 
         "id": "ta"
-    },
+    }, 
     {
-        "text": "Tanganyika",
+        "text": "Tanganyika", 
         "id": "tz"
-    },
+    }, 
     {
-        "text": "Tangier Zone",
+        "text": "Tangier Zone", 
         "id": "mr"
-    },
+    }, 
     {
-        "text": "Tanzania",
+        "text": "Tanzania", 
         "id": "tz"
-    },
+    }, 
     {
-        "text": "Taongi Atoll",
+        "text": "Taongi Atoll", 
         "id": "xe"
-    },
+    }, 
     {
-        "text": "Tasmania",
+        "text": "Tasmania", 
         "id": "tma"
-    },
+    }, 
     {
-        "text": "Tennessee",
+        "text": "Tennessee", 
         "id": "tnu"
-    },
+    }, 
     {
-        "text": "Terres australes et antarctiques françaises",
+        "text": "Terres australes et antarctiques françaises", 
         "id": "fs"
-    },
+    }, 
     {
-        "text": "Texas",
+        "text": "Texas", 
         "id": "txu"
-    },
+    }, 
     {
-        "text": "Thailand",
+        "text": "Thailand", 
         "id": "th"
-    },
+    }, 
     {
-        "text": "Tibet",
+        "text": "Tibet", 
         "id": "cc"
-    },
+    }, 
     {
-        "text": "Timor, East",
+        "text": "Timor, East", 
         "id": "em"
-    },
+    }, 
     {
-        "text": "Timor-Leste",
+        "text": "Timor-Leste", 
         "id": "em"
-    },
+    }, 
     {
-        "text": "Tinian Island",
+        "text": "Tinian Island", 
         "id": "nw"
-    },
+    }, 
     {
-        "text": "Tobago",
+        "text": "Tobago", 
         "id": "tr"
-    },
+    }, 
     {
-        "text": "Tobi Island",
+        "text": "Tobi Island", 
         "id": "pw"
-    },
+    }, 
     {
-        "text": "Togo",
+        "text": "Togo", 
         "id": "tg"
-    },
+    }, 
     {
-        "text": "Togoland",
+        "text": "Togoland", 
         "id": "gh"
-    },
+    }, 
     {
-        "text": "Tokelau",
+        "text": "Tokelau", 
         "id": "tl"
-    },
+    }, 
     {
-        "text": "Tonga",
+        "text": "Tonga", 
         "id": "to"
-    },
+    }, 
     {
-        "text": "Tongatapu",
+        "text": "Tongatapu", 
         "id": "to"
-    },
+    }, 
     {
-        "text": "Torishima",
+        "text": "Torishima", 
         "id": "ja"
-    },
+    }, 
     {
-        "text": "Torres Islands",
+        "text": "Torres Islands", 
         "id": "nn"
-    },
+    }, 
     {
-        "text": "Tortola",
+        "text": "Tortola", 
         "id": "vb"
-    },
+    }, 
     {
-        "text": "Transkei",
+        "text": "Transkei", 
         "id": "sa"
-    },
+    }, 
     {
-        "text": "Trindade, Ilha da",
+        "text": "Trindade, Ilha da", 
         "id": "bl"
-    },
+    }, 
     {
-        "text": "Trinidad and Tobago",
+        "text": "Trinidad and Tobago", 
         "id": "tr"
-    },
+    }, 
     {
-        "text": "Tristan da Cunha Island",
+        "text": "Tristan da Cunha Island", 
         "id": "xj"
-    },
+    }, 
     {
-        "text": "Trobriand Islands",
+        "text": "Trobriand Islands", 
         "id": "pp"
-    },
+    }, 
     {
-        "text": "Tromelin, Ile",
+        "text": "Tromelin, Ile", 
         "id": "re"
-    },
+    }, 
     {
-        "text": "Trucial Coast",
+        "text": "Trucial Coast", 
         "id": "ts"
-    },
+    }, 
     {
-        "text": "Trucial Oman",
+        "text": "Trucial Oman", 
         "id": "ts"
-    },
+    }, 
     {
-        "text": "Trucial Sheikdoms",
+        "text": "Trucial Sheikdoms", 
         "id": "ts"
-    },
+    }, 
     {
-        "text": "Trucial States",
+        "text": "Trucial States", 
         "id": "ts"
-    },
+    }, 
     {
-        "text": "Truk (Micronesia)",
+        "text": "Truk (Micronesia)", 
         "id": "fm"
-    },
+    }, 
     {
-        "text": "Trust Territory of the Pacific Islands",
+        "text": "Trust Territory of the Pacific Islands", 
         "id": "xe"
-    },
+    }, 
     {
-        "text": "Trust Territory of the Pacific Islands",
+        "text": "Trust Territory of the Pacific Islands", 
         "id": "xe"
-    },
+    }, 
     {
-        "text": "Trust Territory of the Pacific Islands",
+        "text": "Trust Territory of the Pacific Islands", 
         "id": "xe"
-    },
+    }, 
     {
-        "text": "Trust Territory of the Pacific Islands",
+        "text": "Trust Territory of the Pacific Islands", 
         "id": "xe"
-    },
+    }, 
     {
-        "text": "Trust Territory of the Pacific Islands",
+        "text": "Trust Territory of the Pacific Islands", 
         "id": "fm"
-    },
+    }, 
     {
-        "text": "Trust Territory of the Pacific Islands",
+        "text": "Trust Territory of the Pacific Islands", 
         "id": "fm"
-    },
+    }, 
     {
-        "text": "Trust Territory of the Pacific Islands",
+        "text": "Trust Territory of the Pacific Islands", 
         "id": "fm"
-    },
+    }, 
     {
-        "text": "Trust Territory of the Pacific Islands",
+        "text": "Trust Territory of the Pacific Islands", 
         "id": "fm"
-    },
+    }, 
     {
-        "text": "Trust Territory of the Pacific Islands",
+        "text": "Trust Territory of the Pacific Islands", 
         "id": "nw"
-    },
+    }, 
     {
-        "text": "Trust Territory of the Pacific Islands",
+        "text": "Trust Territory of the Pacific Islands", 
         "id": "nw"
-    },
+    }, 
     {
-        "text": "Trust Territory of the Pacific Islands",
+        "text": "Trust Territory of the Pacific Islands", 
         "id": "nw"
-    },
+    }, 
     {
-        "text": "Trust Territory of the Pacific Islands",
+        "text": "Trust Territory of the Pacific Islands", 
         "id": "nw"
-    },
+    }, 
     {
-        "text": "Trust Territory of the Pacific Islands",
+        "text": "Trust Territory of the Pacific Islands", 
         "id": "pw"
-    },
+    }, 
     {
-        "text": "Trust Territory of the Pacific Islands",
+        "text": "Trust Territory of the Pacific Islands", 
         "id": "pw"
-    },
+    }, 
     {
-        "text": "Trust Territory of the Pacific Islands",
+        "text": "Trust Territory of the Pacific Islands", 
         "id": "pw"
-    },
+    }, 
     {
-        "text": "Trust Territory of the Pacific Islands",
+        "text": "Trust Territory of the Pacific Islands", 
         "id": "pw"
-    },
+    }, 
     {
-        "text": "Tswana",
+        "text": "Tswana", 
         "id": "sa"
-    },
+    }, 
     {
-        "text": "Tuamotu Archipelago",
+        "text": "Tuamotu Archipelago", 
         "id": "fp"
-    },
+    }, 
     {
-        "text": "Tunisia",
+        "text": "Tunisia", 
         "id": "ti"
-    },
+    }, 
     {
-        "text": "Turkey",
+        "text": "Turkey", 
         "id": "tu"
-    },
+    }, 
     {
-        "text": "Turkmen S.S.R.",
+        "text": "Turkmen S.S.R.", 
         "id": "tk"
-    },
+    }, 
     {
-        "text": "Turkmen S.S.R.",
+        "text": "Turkmen S.S.R.", 
         "id": "tk"
-    },
+    }, 
     {
-        "text": "Turkmen S.S.R.",
+        "text": "Turkmen S.S.R.", 
         "id": "tk"
-    },
+    }, 
     {
-        "text": "Turkmenistan",
+        "text": "Turkmenistan", 
         "id": "tk"
-    },
+    }, 
     {
-        "text": "Turks and Caicos Islands",
+        "text": "Turks and Caicos Islands", 
         "id": "tc"
-    },
+    }, 
     {
-        "text": "Tuvalu",
+        "text": "Tuvalu", 
         "id": "tv"
-    },
+    }, 
     {
-        "text": "Ubangi-Shari",
+        "text": "Ubangi-Shari", 
         "id": "cx"
-    },
+    }, 
     {
-        "text": "Uganda",
+        "text": "Uganda", 
         "id": "ug"
-    },
+    }, 
     {
-        "text": "Ujelang Atoll",
+        "text": "Ujelang Atoll", 
         "id": "xe"
-    },
+    }, 
     {
-        "text": "Ukraine",
+        "text": "Ukraine", 
         "id": "un"
-    },
+    }, 
     {
-        "text": "Ukraine",
+        "text": "Ukraine", 
         "id": "un"
-    },
+    }, 
     {
-        "text": "Ulithi Islands",
+        "text": "Ulithi Islands", 
         "id": "fm"
-    },
+    }, 
     {
-        "text": "Umm al Qaiwain",
+        "text": "Umm al Qaiwain", 
         "id": "ts"
-    },
+    }, 
     {
-        "text": "Umm al-Qaywayn",
+        "text": "Umm al-Qaywayn", 
         "id": "ts"
-    },
+    }, 
     {
-        "text": "Union Islands",
+        "text": "Union Islands", 
         "id": "tl"
-    },
+    }, 
     {
-        "text": "United Arab Emirates",
+        "text": "United Arab Emirates", 
         "id": "ts"
-    },
+    }, 
     {
-        "text": "United Arab Republic",
+        "text": "United Arab Republic", 
         "id": "ua"
-    },
+    }, 
     {
-        "text": "United Kingdom",
+        "text": "United Kingdom", 
         "id": "xxk"
-    },
+    }, 
     {
-        "text": "United Kingdom",
+        "text": "United Kingdom", 
         "id": "xxk"
-    },
+    }, 
     {
-        "text": "United Kingdom Misc. Islands",
+        "text": "United Kingdom Misc. Islands", 
         "id": "uik"
-    },
+    }, 
     {
-        "text": "United Kingdom Misc. Islands",
+        "text": "United Kingdom Misc. Islands", 
         "id": "uik"
-    },
+    }, 
     {
-        "text": "United States",
+        "text": "United States", 
         "id": "xxu"
-    },
+    }, 
     {
-        "text": "United States",
+        "text": "United States", 
         "id": "xxu"
-    },
+    }, 
     {
-        "text": "United States Misc. Caribbean Islands",
+        "text": "United States Misc. Caribbean Islands", 
         "id": "ck"
-    },
+    }, 
     {
-        "text": "United States Misc. Caribbean Islands",
+        "text": "United States Misc. Caribbean Islands", 
         "id": "ck"
-    },
+    }, 
     {
-        "text": "United States Misc. Caribbean Islands",
+        "text": "United States Misc. Caribbean Islands", 
         "id": "uc"
-    },
+    }, 
     {
-        "text": "United States Misc. Pacific Islands",
+        "text": "United States Misc. Pacific Islands", 
         "id": "up"
-    },
+    }, 
     {
-        "text": "Upolu",
+        "text": "Upolu", 
         "id": "ws"
-    },
+    }, 
     {
-        "text": "Upper Volta",
+        "text": "Upper Volta", 
         "id": "uv"
-    },
+    }, 
     {
-        "text": "Uruguay",
+        "text": "Uruguay", 
         "id": "uy"
-    },
+    }, 
     {
-        "text": "Utah",
+        "text": "Utah", 
         "id": "utu"
-    },
+    }, 
     {
-        "text": "Utirik Atoll",
+        "text": "Utirik Atoll", 
         "id": "xe"
-    },
+    }, 
     {
-        "text": "Uvea (New Caledonia)",
+        "text": "Uvea (New Caledonia)", 
         "id": "nl"
-    },
+    }, 
     {
-        "text": "Uvea (Wallis and Futuna)",
+        "text": "Uvea (Wallis and Futuna)", 
         "id": "wf"
-    },
+    }, 
     {
-        "text": "Uzbek S.S.R.",
+        "text": "Uzbek S.S.R.", 
         "id": "uz"
-    },
+    }, 
     {
-        "text": "Uzbek S.S.R.",
+        "text": "Uzbek S.S.R.", 
         "id": "uz"
-    },
+    }, 
     {
-        "text": "Uzbek S.S.R.",
+        "text": "Uzbek S.S.R.", 
         "id": "uz"
-    },
+    }, 
     {
-        "text": "Uzbekistan",
+        "text": "Uzbekistan", 
         "id": "uz"
-    },
+    }, 
     {
-        "text": "Vanua Levu Island",
+        "text": "Vanua Levu Island", 
         "id": "fj"
-    },
+    }, 
     {
-        "text": "Vanuatu",
+        "text": "Vanuatu", 
         "id": "nn"
-    },
+    }, 
     {
-        "text": "Various places",
+        "text": "Various places", 
         "id": "vp"
-    },
+    }, 
     {
-        "text": "Vatican City",
+        "text": "Vatican City", 
         "id": "vc"
-    },
+    }, 
     {
-        "text": "Vavau",
+        "text": "Vavau", 
         "id": "to"
-    },
+    }, 
     {
-        "text": "Venda",
+        "text": "Venda", 
         "id": "sa"
-    },
+    }, 
     {
-        "text": "Venezuela",
+        "text": "Venezuela", 
         "id": "ve"
-    },
+    }, 
     {
-        "text": "Vent, Iles du",
+        "text": "Vent, Iles du", 
         "id": "fp"
-    },
+    }, 
     {
-        "text": "Vermont",
+        "text": "Vermont", 
         "id": "vtu"
-    },
+    }, 
     {
-        "text": "Victoria",
+        "text": "Victoria", 
         "id": "vra"
-    },
+    }, 
     {
-        "text": "Vietnam",
+        "text": "Vietnam", 
         "id": "vm"
-    },
+    }, 
     {
-        "text": "Vietnam, North",
+        "text": "Vietnam, North", 
         "id": "vm"
-    },
+    }, 
     {
-        "text": "Vietnam, North",
+        "text": "Vietnam, North", 
         "id": "vm"
-    },
+    }, 
     {
-        "text": "Vietnam, North",
+        "text": "Vietnam, North", 
         "id": "vm"
-    },
+    }, 
     {
-        "text": "Vietnam, North",
+        "text": "Vietnam, North", 
         "id": "vm"
-    },
+    }, 
     {
-        "text": "Vietnam, North",
+        "text": "Vietnam, North", 
         "id": "vm"
-    },
+    }, 
     {
-        "text": "Vietnam, Republic of",
+        "text": "Vietnam, Republic of", 
         "id": "vm"
-    },
+    }, 
     {
-        "text": "Vietnam, South",
+        "text": "Vietnam, South", 
         "id": "vm"
-    },
+    }, 
     {
-        "text": "Vietnam, South",
+        "text": "Vietnam, South", 
         "id": "vm"
-    },
+    }, 
     {
-        "text": "Vietnam, South",
+        "text": "Vietnam, South", 
         "id": "vm"
-    },
+    }, 
     {
-        "text": "Vietnam, South",
+        "text": "Vietnam, South", 
         "id": "vm"
-    },
+    }, 
     {
-        "text": "Vietnam, South",
+        "text": "Vietnam, South", 
         "id": "vm"
-    },
+    }, 
     {
-        "text": "Virgin Gorda",
+        "text": "Virgin Gorda", 
         "id": "vb"
-    },
+    }, 
     {
-        "text": "Virgin Islands (British)",
+        "text": "Virgin Islands (British)", 
         "id": "vb"
-    },
+    }, 
     {
-        "text": "Virgin Islands of the United States",
+        "text": "Virgin Islands of the United States", 
         "id": "vi"
-    },
+    }, 
     {
-        "text": "Virginia",
+        "text": "Virginia", 
         "id": "vau"
-    },
+    }, 
     {
-        "text": "Viti Levu Island",
+        "text": "Viti Levu Island", 
         "id": "fj"
-    },
+    }, 
     {
-        "text": "Volcano Islands",
+        "text": "Volcano Islands", 
         "id": "ja"
-    },
+    }, 
     {
-        "text": "Vostok Island",
+        "text": "Vostok Island", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "Wake Island",
+        "text": "Wake Island", 
         "id": "wk"
-    },
+    }, 
     {
-        "text": "Wales",
+        "text": "Wales", 
         "id": "wlk"
-    },
+    }, 
     {
-        "text": "Wallis and Futuna",
+        "text": "Wallis and Futuna", 
         "id": "wf"
-    },
+    }, 
     {
-        "text": "Walpole, Ile",
+        "text": "Walpole, Ile", 
         "id": "nl"
-    },
+    }, 
     {
-        "text": "Walvis Bay Enclave",
+        "text": "Walvis Bay Enclave", 
         "id": "sa"
-    },
+    }, 
     {
-        "text": "Washington (State)",
+        "text": "Washington (State)", 
         "id": "wau"
-    },
+    }, 
     {
-        "text": "Washington Island",
+        "text": "Washington Island", 
         "id": "gb"
-    },
+    }, 
     {
-        "text": "West Bank of the Jordan River",
+        "text": "West Bank of the Jordan River", 
         "id": "wj"
-    },
+    }, 
     {
-        "text": "West Berlin",
+        "text": "West Berlin", 
         "id": "gw"
-    },
+    }, 
     {
-        "text": "West Berlin",
+        "text": "West Berlin", 
         "id": "gw"
-    },
+    }, 
     {
-        "text": "West Berlin",
+        "text": "West Berlin", 
         "id": "gw"
-    },
+    }, 
     {
-        "text": "West Cameroon",
+        "text": "West Cameroon", 
         "id": "cm"
-    },
+    }, 
     {
-        "text": "West Falkland Island",
+        "text": "West Falkland Island", 
         "id": "fk"
-    },
+    }, 
     {
-        "text": "West Fayu Atoll",
+        "text": "West Fayu Atoll", 
         "id": "fm"
-    },
+    }, 
     {
-        "text": "West New Guinea",
+        "text": "West New Guinea", 
         "id": "io"
-    },
+    }, 
     {
-        "text": "West Pakistan",
+        "text": "West Pakistan", 
         "id": "pk"
-    },
+    }, 
     {
-        "text": "West Virginia",
+        "text": "West Virginia", 
         "id": "wvu"
-    },
+    }, 
     {
-        "text": "Western Australia",
+        "text": "Western Australia", 
         "id": "wea"
-    },
+    }, 
     {
-        "text": "Western Sahara ",
+        "text": "Western Sahara ", 
         "id": "ss"
-    },
+    }, 
     {
-        "text": "Western Samoa",
+        "text": "Western Samoa", 
         "id": "ws"
-    },
+    }, 
     {
-        "text": "Wisconsin",
+        "text": "Wisconsin", 
         "id": "wiu"
-    },
+    }, 
     {
-        "text": "Woleai Atolls",
+        "text": "Woleai Atolls", 
         "id": "fm"
-    },
+    }, 
     {
-        "text": "Woodlark Island",
+        "text": "Woodlark Island", 
         "id": "pp"
-    },
+    }, 
     {
-        "text": "Wotje Atoll",
+        "text": "Wotje Atoll", 
         "id": "xe"
-    },
+    }, 
     {
-        "text": "Wrangel Island",
+        "text": "Wrangel Island", 
         "id": "ru"
-    },
+    }, 
     {
-        "text": "Wyoming",
+        "text": "Wyoming", 
         "id": "wyu"
-    },
+    }, 
     {
-        "text": "Yap (Micronesia)",
+        "text": "Yap (Micronesia)", 
         "id": "fm"
-    },
+    }, 
     {
-        "text": "Yemen",
+        "text": "Yemen", 
         "id": "ye"
-    },
+    }, 
     {
-        "text": "Yemen",
+        "text": "Yemen", 
         "id": "ye"
-    },
+    }, 
     {
-        "text": "Yemen (People's Democratic Republic",
+        "text": "Yemen (People's Democratic Republic", 
         "id": "ye"
-    },
+    }, 
     {
-        "text": "Yemen (People's Democratic Republic",
+        "text": "Yemen (People's Democratic Republic", 
         "id": "ye"
-    },
+    }, 
     {
-        "text": "Yemen (People's Democratic Republic)",
+        "text": "Yemen (People's Democratic Republic)", 
         "id": "ye"
-    },
+    }, 
     {
-        "text": "Yemen (People's Democratic Republic)",
+        "text": "Yemen (People's Democratic Republic)", 
         "id": "ye"
-    },
+    }, 
     {
-        "text": "Yemen (People's Democratic Republic)",
+        "text": "Yemen (People's Democratic Republic)", 
         "id": "ye"
-    },
+    }, 
     {
-        "text": "Yemen (People's Democratic Republic)",
+        "text": "Yemen (People's Democratic Republic)", 
         "id": "ye"
-    },
+    }, 
     {
-        "text": "Yemen (People's Democratic Republic)",
+        "text": "Yemen (People's Democratic Republic)", 
         "id": "ye"
-    },
+    }, 
     {
-        "text": "Yemen (People's Democratic Republic)",
+        "text": "Yemen (People's Democratic Republic)", 
         "id": "ye"
-    },
+    }, 
     {
-        "text": "Yemen (People's Democratic Republic)",
+        "text": "Yemen (People's Democratic Republic)", 
         "id": "ye"
-    },
+    }, 
     {
-        "text": "Yemen (People's Democratic Republic)",
+        "text": "Yemen (People's Democratic Republic)", 
         "id": "ye"
-    },
+    }, 
     {
-        "text": "Yemen (People's Democratic Republic)",
+        "text": "Yemen (People's Democratic Republic)", 
         "id": "ye"
-    },
+    }, 
     {
-        "text": "Yugoslavia",
+        "text": "Yugoslavia", 
         "id": "bn"
-    },
+    }, 
     {
-        "text": "Yugoslavia",
+        "text": "Yugoslavia", 
         "id": "ci"
-    },
+    }, 
     {
-        "text": "Yugoslavia",
+        "text": "Yugoslavia", 
         "id": "xn"
-    },
+    }, 
     {
-        "text": "Yugoslavia",
+        "text": "Yugoslavia", 
         "id": "mo"
-    },
+    }, 
     {
-        "text": "Yugoslavia",
+        "text": "Yugoslavia", 
         "id": "mo"
-    },
+    }, 
     {
-        "text": "Yugoslavia",
+        "text": "Yugoslavia", 
         "id": "rb"
-    },
+    }, 
     {
-        "text": "Yugoslavia",
+        "text": "Yugoslavia", 
         "id": "rb"
-    },
+    }, 
     {
-        "text": "Yugoslavia",
+        "text": "Yugoslavia", 
         "id": "xv"
-    },
+    }, 
     {
-        "text": "Yukon Territory",
+        "text": "Yukon Territory", 
         "id": "ykc"
-    },
+    }, 
     {
-        "text": "Zaire",
+        "text": "Zaire", 
         "id": "cg"
-    },
+    }, 
     {
-        "text": "Zambia",
+        "text": "Zambia", 
         "id": "za"
-    },
+    }, 
     {
-        "text": "Zanzibar",
+        "text": "Zanzibar", 
         "id": "tz"
-    },
+    }, 
     {
-        "text": "Zimbabwe",
+        "text": "Zimbabwe", 
         "id": "rh"
-    },
+    }, 
     {
-        "text": "Zimbabwe Rhodesia",
+        "text": "Zimbabwe Rhodesia", 
         "id": "rh"
-    },
+    }, 
     {
-        "text": "Zona Sur del Protectorado de Marruecos",
+        "text": "Zona Sur del Protectorado de Marruecos", 
         "id": "mr"
-    },
+    }, 
     {
-        "text": "Zulu",
+        "text": "Zulu", 
         "id": "sa"
-    },
+    }, 
     {
-        "text": "`Ajman",
+        "text": "`Ajman", 
         "id": "ts"
-    },
+    }, 
     {
-        "text": "Åland Islands",
+        "text": "Åland Islands", 
         "id": "fi"
     }
 ]
